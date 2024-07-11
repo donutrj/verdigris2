@@ -278,7 +278,7 @@ Max: Strength
 
 You have an imposing presence. When attempting to intimidate, gain a bonus equal to your level in this talent.
 
-#edit kinda redundant with [[Talents (List)#Frightening|Frightening]]
+#edit kinda redundant with [[Talents Master List#Frightening|Frightening]]
 ## Mimic
 Max: Personality
 
@@ -422,7 +422,7 @@ Max: 1
 
 You read books at a voracious pace. You gain a +2 bonus when it comes to research and reading. If the speed at which you read is important during combat, a successful language test lets you read and fully comprehend a number of pages per round equal to the test’s SL.
 
-If you memorize spells from a written source, you may memorize them at twice the normal speed. #edit change with [[Casting]] rules also add war wizard to this!
+If you memorize spells from a written source, you may memorize them at twice the normal speed. #edit change with [[Wizardry]] rules also add war wizard to this!
 ## Spiderclimb
 Max: Strength
 
@@ -552,3 +552,7 @@ Max: 2
 You are a self-taught spellcaster who has figured out how to cast magic through trial and error. When taking this talent, randomly select 8 spells and choose any 2 to add to your spellbook.
 
 You may now add casting and channeling to your skill list and increase them as such.
+## Wizardry
+Max: 1
+
+You have been educated in the classics of spellcasting. When you take this talent, select a school of magic from the [[Wizardry]] page. You may now attempt to cast spells from that list. 

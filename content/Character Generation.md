@@ -193,7 +193,7 @@ Now that you have a good idea of the background and capabilities of your charact
 | 9    | Vain       |
 | 10   | Vengeful   |
 # Talents
-Lastly, select two talents from the [[Talents (List)|talents page]]. Make sure they are valid, as many talents require you to take a pre-requisite talent first. 
+Lastly, select two talents from the [[Talents Master List|talents page]]. Make sure they are valid, as many talents require you to take a pre-requisite talent first. 
 # Relationships
 When making a character, work with the other players at find a dynamic between your character and another.
 
