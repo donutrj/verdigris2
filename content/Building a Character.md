@@ -138,83 +138,47 @@ Roll twice on the following table and add the two backgrounds to your character 
 # Characteristics
 Now that you have a good idea of the background and capabilities of your character, either roll or choose an entry from each of the following tables to better flesh out your character.
 
-| 1d10 | Physique   |
-| ---- | ---------- |
-| 1    | Athletic   |
-| 2    | Brawny     |
-| 3    | Diminutive |
-| 4    | Lanky      |
-| 5    | Rugged     |
-| 6    | Slim       |
-| 7    | Short      |
-| 8    | Statuesque |
-| 9    | Stout      |
-| 10   | Towering   |
+| 1d10 | Physique   | 1d10 | Skin       |
+| ---- | ---------- | ---- | ---------- |
+| 1    | Athletic   | 1    | Birthmark  |
+| 2    | Brawny     | 2    | Drawn      |
+| 3    | Diminutive | 3    | Elongated  |
+| 4    | Lanky      | 4    | Pockmarked |
+| 5    | Rugged     | 5    | Rosy       |
+| 6    | Slim       | 6    | Rough      |
+| 7    | Short      | 7    | Smooth     |
+| 8    | Statuesque | 8    | Freckled   |
+| 9    | Stout      | 9    | Scarred    |
+| 10   | Towering   | 10   | Weathered  |
 
-| 1d10 | Skin       |
-| ---- | ---------- |
-| 1    | Birthmark  |
-| 2    | Drawn      |
-| 3    | Elongated  |
-| 4    | Pockmarked |
-| 5    | Rosy       |
-| 6    | Rough      |
-| 7    | Smooth     |
-| 8    | Freckled   |
-| 9    | Scarred    |
-| 10   | Weathered  |
 
-| 1d10 | Hair      |
-| ---- | --------- |
-| 1    | Shaved    |
-| 2    | Braided   |
-| 3    | Curly     |
-| 4    | Matted    |
-| 5    | Frizzy    |
-| 6    | Flowing   |
-| 7    | Luxurious |
-| 8    | Oily      |
-| 9    | Wavy      |
-| 10   | Wispy     |
+| 1d10 | Hair      | 1d10 | Face        |
+| ---- | --------- | ---- | ----------- |
+| 1    | Shaved    | 1    | Bony        |
+| 2    | Braided   | 2    | Damaged     |
+| 3    | Curly     | 3    | Chiselled   |
+| 4    | Matted    | 4    | Elongated   |
+| 5    | Frizzy    | 5    | Pale        |
+| 6    | Flowing   | 6    | Symmetrical |
+| 7    | Luxurious | 7    | Fierce      |
+| 8    | Oily      | 8    | Sharp       |
+| 9    | Wavy      | 9    | Square      |
+| 10   | Wispy     | 10   | Sunken      |
 
-| 1d10 | Face        |
-| ---- | ----------- |
-| 1    | Bony        |
-| 2    | Damaged     |
-| 3    | Chiselled   |
-| 4    | Elongated   |
-| 5    | Pale        |
-| 6    | Symmetrical |
-| 7    | Fierce      |
-| 8    | Sharp       |
-| 9    | Square      |
-| 10   | Sunken      |
 
-| 1d10 | Speech   |
-| ---- | -------- |
-| 1    | Blunt    |
-| 2    | Booming  |
-| 3    | Cryptic  |
-| 4    | Droning  |
-| 5    | Formal   |
-| 6    | Gravelly |
-| 7    | Precise  |
-| 8    | Squeaky  |
-| 9    | Eloquent |
-| 10   | Whispery |
+| 1d10 | Speech   | 1d10 | Virtue      |
+| ---- | -------- | ---- | ----------- |
+| 1    | Blunt    | 1    | Ambitious   |
+| 2    | Booming  | 2    | Cautious    |
+| 3    | Cryptic  | 3    | Courageous  |
+| 4    | Droning  | 4    | Disciplined |
+| 5    | Formal   | 5    | Gregarious  |
+| 6    | Gravelly | 6    | Honorable   |
+| 7    | Precise  | 7    | Humble      |
+| 8    | Squeaky  | 8    | Merciful    |
+| 9    | Eloquent | 9    | Serene      |
+| 10   | Whispery | 10   | Tolerant    |
 
-| 1d10 | Virtue      |
-| ---- | ----------- |
-| 1    | Ambitious   |
-| 2    | Cautious    |
-| 3    | Courageous  |
-| 4    | Disciplined |
-| 5    | Gregarious  |
-| 6    | Honorable   |
-| 7    | Humble      |
-| 8    | Merciful    |
-| 9    | Serene      |
-| 10   | Tolerant    |
 
 | 1d10 | Vice       |
 | ---- | ---------- |
