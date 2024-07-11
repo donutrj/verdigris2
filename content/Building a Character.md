@@ -3,7 +3,7 @@ The base character has the following stats:
 + Two for all Attributes, Panic, Reflex, and Wounds
 + Three Hit Points
 + One for Warding and Withstand
-# Attributes and Saves
+# Attributes
 Begin building a character by rolling 4d6 and increasing the corresponding by 1:
 
 | Roll | Result                             |
@@ -15,6 +15,7 @@ Begin building a character by rolling 4d6 and increasing the corresponding by 1:
 | 5    | Hit Points                         |
 | 6    | Roll again & increase by 2 instead |
 
+# Saves
 Then roll another 4d6, assigning as follows:
 
 | Roll | Result                             |
@@ -25,6 +26,7 @@ Then roll another 4d6, assigning as follows:
 | 4    | Withstand                          |
 | 5    | Hit Points                         |
 | 6    | Roll again & increase by 2 instead |
+
 *Rolling sixes multiple times does not mean the result stacks*
 
 # Backgrounds
