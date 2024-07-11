@@ -15,8 +15,8 @@ The state system for developing powerful battlemages has been lost to time. Such
 
 The land is littered with petty kings. Leveraging a mix of mercenary troops and local armies, they war. Some ape the past, seeking to reclaim and rebuild the glory of old while others reject it, looking to the future.
 # Mechanics
-Verdigris is a classless system built on the Mutant: Year Zero Engine. Players make [[Player Characters#Attributes|tests]] and [[Player Characters#Saves|saves]] to overcome challenges and avoid harm. Players roll pools of d6s, aiming to collect sixes, while weighing the risk of pushing the roll.
+Verdigris is a classless system built on the Mutant: Year Zero Engine. Players make [[Components of a Character#Attributes|tests]] and [[Components of a Character#Saves|saves]] to overcome challenges and avoid harm. Players roll pools of d6s, aiming to collect sixes, while weighing the risk of pushing the roll.
 
-Learn more about the [[Player Characters|player characters]] or build one here.
+Learn more about the [[Components of a Character|player characters]] or build one here.
 
 Verdigris is also heavily inspired by other games; originally called Symhammer - as a amalgam of Symbaroum and Warhammer Fantasy. Inspiration is also taken from Knave, WutC, and many, many blog posts.

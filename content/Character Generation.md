@@ -1,3 +1,4 @@
+This page is for quickly generating a character, to learn more about any of these components check out [[Components of a Character]]!
 # The Base Stats
 The base character has the following stats:
 + Two for all Attributes, Panic, Reflex, and Wounds
@@ -28,7 +29,6 @@ Then roll another 4d6, assigning as follows:
 | 6    | Roll again & increase by 2 instead |
 
 *Rolling sixes multiple times does not mean the result stacks*
-
 # Backgrounds
 Roll twice on the following table and add the two backgrounds to your character sheet along with the corresponding gear to your inventory:
 
@@ -192,3 +192,26 @@ Now that you have a good idea of the background and capabilities of your charact
 | 8    | Rude       |
 | 9    | Vain       |
 | 10   | Vengeful   |
+# Talents
+Lastly, select two talents from the [[Talents (List)|talents page]]. Make sure they are valid, as many talents require you to take a pre-requisite talent first. 
+# Relationships
+When making a character, work with the other players at find a dynamic between your character and another.
+
+| Sample Relationships   |
+| ---------------------- |
+| Allies                 |
+| Parent/Child           |
+| Childhood Friends      |
+| Rivals                 |
+| Older/Younger Siblings |
+| Twins                  |
+| Lovers                 |
+| Mutual Crushes         |
+| Aunt/Uncle & Child     |
+| Married Couple         |
+| Coworkers              |
+| Mentor & Apprentice    |
+| Boss & Underling       |
+| Frenemies              |
+| Drinking buddies       |
+| Creditor & Debtor      |
