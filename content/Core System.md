@@ -1,7 +1,7 @@
 # Tests
 Tests should only be made when a character attempts to do something challenging. If a professional, under no pressure, with the right tools attempts a task; they do the task. If someone skilled in sleight-of-hand attempts to pick a lock using lockpicks. They do, no test is required. Now if they’re trying to pick a lock before the guards round a corner, or maybe they have all the time in the world but they’re using a dagger instead of lockpicks, then a test is required. 
 ## How to make a Test
-All tests are made by identifying which attribute best fits the challenge. Then consider the following factors to augment the number of d6s rolled.
+All tests are made by identifying which attribute best fits the challenge. Then consider the following factors to augment the number of d6s rolled. Each success is considered one success level, or SL for short.
 1. Does the character's background or any skills fit the current test? Add a bonus die for the background and bonus dice equal to the level in a relevant skill.
 2. Does the character currently have any stress? Add stress dice to the pool equal to their stress.
 3. Is the character using any equipment / weapon? Add equipment dice equal to the bonus it'd provide
