@@ -1,4 +1,4 @@
-This page is for quickly generating a character, to learn more about any of these components check out [[Components of a Character]]!
+This page is for quickly generating a character, to learn more about any of these components check out [[Building Blocks]]!
 # The Base Stats
 The base character has the following stats:
 + Two for all Attributes, Panic, Reflex, and Wounds
