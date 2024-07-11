@@ -1,4 +1,3 @@
-
 ## Accurate Shot
 Max: Advanced Training
 
