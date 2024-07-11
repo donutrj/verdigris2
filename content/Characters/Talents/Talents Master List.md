@@ -51,11 +51,11 @@ You are a seasoned drinker and know how to party hard. Tests related to partying
 ## Cardsharp
 Max: Intelligence
 
-You are a gambling expert, great at reading the room and making the right calls. Gain +1 to all tests invovled with gambling per level in this talent.
+You are a gambling expert, great at reading the room and making the right calls. Gain +1 to all tests involved with gambling per level in this talent.
 ## Cat-Tongued
 Max: 1
 
-You blend truth and lies as if there were no difference. When lying, listeners do not get to oppose your Charm with their own test detect. Lies must still be believeable and if you say something they know to be false you'll still be caught.
+You blend truth and lies as if there were no difference. When lying, listeners do not get to oppose your Charm with their own test detect. Lies must still be believable and if you say something they know to be false you'll still be caught.
 
 You can still fail by getting 0 SL on your personality test.
 ## Combat Reflexes
