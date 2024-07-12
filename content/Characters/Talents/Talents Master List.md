@@ -2,10 +2,20 @@
 Max: Advanced Training
 
 You're a fantastic shot, capable of inflicting massive damage on your opponents. Deal an extra wound per level in this talent with ranged weapons.
+## Alchemy
+Max: 3
+
+You are knowledgeable in the ways of brewing potions. You can brew potions and maintain a number equal to your level in alchemy.
+
+Read more about the alchemy rules [[Alchemy|here.]]
+## Batch Processing
+Max: 4
+
+You are familiar with the foibles of brewing potions and have learned how to manufacture at scale. When brewing potions, you may brew a number of identical potions equal to your level in this talent plus one. 
 ## Blackpowder
 Max: 1
 
-You have been trained in the use and maintence of blackpowder weaponry. This means you can comfortably use not only the small arms as listed in the equipment section, but also cannons, mortars, and explosives.
+You have been trained in the use and maintenance of blackpowder weaponry. This means you can comfortably use not only the small arms as listed in the equipment section, but also cannons, mortars, and explosives.
 ## Blather
 Max: 1
 
@@ -21,9 +31,9 @@ You are an expert at quickly kicking down doors and forcing entry. You may add +
 ## Briber
 Max: Personality
 
-You know how to bring up a monetary encouragement with a bit more tact than most. When negotating a bribe gain a bonus equal to your level in this talent. 
+You know how to bring up a monetary encouragement with a bit more tact than most. When negotiating a bribe gain a bonus equal to your level in this talent. 
 
-If you fail to bribe a source, either because they cannot be bribed or otherwise, make a personality test to see if you can close out the exchange without agrivating your target
+If you fail to bribe a source, either because they cannot be bribed or otherwise, make a personality test to see if you can close out the exchange without aggravating your target
 ## Brothers in Arms
 Max: Party Size
 
@@ -61,7 +71,7 @@ You can still fail by getting 0 SL on your personality test.
 ## Combat Reflexes
 Max: 1
 
-You react like a flash of lightning. Advantage in combat initiative idk figure it out? #edit 
+You react like a flash of lightning. When [[Combat#Turn Order|rolling combat initiative]], reduce the target from 4+ by 1 for each level in this talent.  
 ## Commanding Presence
 Max: 1
 
