@@ -215,3 +215,5 @@ When making a character, work with the other players at find a dynamic between y
 | Frenemies              |
 | Drinking buddies       |
 | Creditor & Debtor      |
+# Gear
+In addition to the starting gear provided by the backgrounds, a player may purchase [[Equipment|equipment]] and [[Weapons & Armor|arms]] with a starting pool of 10d6 coins.
