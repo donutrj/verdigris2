@@ -31,6 +31,7 @@ Talents are what might make a character a wizard or a duelist.
 As characters push themselves they'll inevitably learn new skills. A once-farmer that spend their days breaking into the homes of the elite will likely be a better lock-pick one year in than on the first day. 
 
 During play when a test aligns with a skill, the player will roll an extra die to represent their proficiency. Read more about learning skills here. #edit 
-
 # Wounds & Hit Points
 When characters take damage, they reduce their hit points (HP) by the corresponding amount. When damage is severe or their HP is reduced to zero they take a wound. [[Combat#Damage|Learn more in the combat section]]. 
+# Inventory
+A character's inventory is broken down into three subsections: Hands, Belt, and Pack. A character is currently holding whatever is in their hands. What's in the belt is easily accessible, in combat there is no action required to grab something from the belt. What is on your belt can easily be seen by passerbys. The pack is the largest of the three sections, and is whatever is in there is hidden, and requires a turn to access in combat.

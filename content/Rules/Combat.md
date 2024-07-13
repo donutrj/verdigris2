@@ -46,6 +46,6 @@ When a player is reduced to zero hit points and zero wounds, they are on Death's
 ## Death’s Door
 When a character reaches zero wounds and hit points, they are on Death’s Door. Once a minute or on their turn in combat, make a withstand save. On a fail, the character is dead. 
 ## Weapon Damage
-A weapon’s table entry will have a damage and bonus listed. When a target is struck, reduce the target’s wounds equal to the damage value + 1 for each SL. 
+A [[Weapons & Armor#Weapons|weapon’s table entry]] will have a damage and bonus listed. When a target is struck, reduce the target’s wounds equal to the damage value + 1 for each SL. 
 
 If the defender is wearing armor, they roll a pool of dice equal to the armor’s value and reduce the damage by that much. 

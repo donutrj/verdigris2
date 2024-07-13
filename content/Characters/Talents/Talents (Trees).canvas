@@ -120,7 +120,8 @@
 		{"id":"402a5077b26e26eb","type":"text","text":"[[Talents Master List#Alchemy|Alchemy]]","x":70,"y":-527,"width":250,"height":60},
 		{"id":"4b21f5372800bec6","type":"text","text":"[[Talents Master List#Savant(Lore)*|Savant]]","x":-210,"y":-340,"width":250,"height":60},
 		{"id":"4b39a9e4fe0b7b21","type":"text","text":"[[Talents Master List#Batch Processing|Batch Processing]]","x":70,"y":-340,"width":250,"height":60},
-		{"id":"4e4be242b65f4d82","type":"text","text":"[[Talents Master List#Tinker|Tinker]]","x":-210,"y":-707,"width":250,"height":60}
+		{"id":"4e4be242b65f4d82","type":"text","text":"[[Talents Master List#Tinker|Tinker]]","x":-210,"y":-707,"width":250,"height":60},
+		{"id":"68eaa279590186a2","x":980,"y":117,"width":250,"height":60,"type":"text","text":"[[Talents Master List#Berserk Charge|Berserk Charge]]"}
 	],
 	"edges":[
 		{"id":"44dc092ec3b7b7ae","fromNode":"51cbafbb06683963","fromSide":"bottom","toNode":"7f9a393f66a12d6a","toSide":"top"},
@@ -247,6 +248,7 @@
 		{"id":"ac48d537a9b2e91e","fromNode":"6ebbf6c6a9a246a6","fromSide":"bottom","toNode":"02c270dd7c59dcf2","toSide":"top"},
 		{"id":"d18fcffab72d4466","fromNode":"dc5936375cf35d33","fromSide":"bottom","toNode":"1fbc9be795bccabc","toSide":"top"},
 		{"id":"288b4999c5f17283","fromNode":"dcd76fbdb93d3107","fromSide":"bottom","toNode":"1fbc9be795bccabc","toSide":"top"},
-		{"id":"074f296305add9a4","fromNode":"402a5077b26e26eb","fromSide":"bottom","toNode":"4b39a9e4fe0b7b21","toSide":"top"}
+		{"id":"074f296305add9a4","fromNode":"402a5077b26e26eb","fromSide":"bottom","toNode":"4b39a9e4fe0b7b21","toSide":"top"},
+		{"id":"2748e70a2d86648c","fromNode":"087bfd0ca38a81cf","fromSide":"bottom","toNode":"68eaa279590186a2","toSide":"top"}
 	]
 }

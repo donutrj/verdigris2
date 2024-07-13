@@ -7,7 +7,6 @@ All tests are made by identifying which attribute best fits the challenge. Then 
 3. Is the character using any equipment / weapon? Add equipment dice equal to the bonus it'd provide
 4. Does the character have some sort of advantage? The GM will let you know if something would provide extra bonus dice.
 ### Pushing a Test
-
 After a test is made, a player can elect to push a roll. This is attempted to achieve greater SL at the risk of character harm. To push a roll do the following:
 1. Set all ones and sixes aside
 2. Increase stress by one

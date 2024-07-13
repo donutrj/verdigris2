@@ -1,6 +1,6 @@
 Potions have long been a powerful force in the life of adventurers. From the ability to smell lies or climb walls as a spider, to the simple classics like a fireball or healing tonic-potions have a long and varied past.
 
-To brew potions you must have the Alchemy talent and be properly equiped. A brewer must have a stone cauldron and the correct ingredients for their potion of choice. A cauldron does not need to be big, but the metals of common cookware typically react with the brewing process. 
+To brew potions you must have the Alchemy talent and be properly equiped. A brewer must have a stone cauldron (granite or basalt) and the correct ingredients for their potion of choice. A cauldron does not need to be big, but the metals of common cookware typically react with the brewing process. 
 
 Once equipped, a potion takes four hours over the fire to produce, aka 1 shift (in downtime terms). 
 

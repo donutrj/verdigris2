@@ -12,6 +12,10 @@ Read more about the alchemy rules [[Alchemy|here.]]
 Max: 4
 
 You are familiar with the foibles of brewing potions and have learned how to manufacture at scale. When brewing potions, you may brew a number of identical potions equal to your level in this talent plus one. 
+## Berserk Charge
+Max: Strength
+
+You hurl yourself at your enemies with reckless abandon, using the force of your charge to add weight to your strikes. On your first attack when entering a melee, you deal +1 damage per the level of this talent.
 ## Blackpowder
 Max: 1
 
@@ -55,7 +59,7 @@ When engaging in cheating, roll an agility test at the begging of play. All futu
 
 Failure on a pushed test means you've been caught cheating.
 ## Carouser
-Max: Stamina
+Max: Withstand
 
 You are a seasoned drinker and know how to party hard. Tests related to partying are made with +1 bonus per talent level.
 ## Cardsharp
@@ -110,8 +114,7 @@ You have been taught all the dirty tricks of unarmed combat. You may choose to c
 Note using this Talent will be seen as cheating in any formal bout and is generally considered underhanded.
 #edit this might be better served as a style/technique
 ## Disease Resistant
-
-Max: Stamina
+Max: Withstand
 
 You’ve spent much of your time in unclean places. While not pleasant, you’ve certainly built a useful resistance to the features of such locals. When testing for infections, sickness, and poisons gain a +1 bonus for each level in this Talent. This applies to alcohol.
 ## Drilled
@@ -141,7 +144,7 @@ Your gods of worship look upon you more often. When attempting tests, you may sp
 ## Fearless
 Max: Panic
 
-You are either brave enough or crazy enough that fear of certain enemies has become a distant memory. With a single 1SL Cool Test, you may ignore any intimidate, stress, or other specified effects from the enemy when encountered. Typical enemies include: Beastmen, Greenskin, Outlaws, Nobles, Watchmen, Undead & Witches.
+You are either brave enough or crazy enough that fear of certain enemies has become a distant memory. With a single 1SL Cool Test, you may ignore any intimidate, stress, or other specified effects from the enemy when encountered. Typical enemies include: Beastmen, Greenskins, Outlaws, Nobles, Watchmen, Undead & Witches.
 
 If taken multiple times, select another enemy and the effects can be applied to both.
 ## Feast
@@ -155,8 +158,7 @@ You are used to treating wounds in the heat of action. While in combat you may m
 
 Pushed tests will result in infection on a failed endurance test.
 ## Fisherman
-
-Max: Stamina
+Max: Withstand
 
 You are a very capable fisherman and know all the best ways to land fish. Assuming a large enough body of water is available, you are automatically assumed to be able to fish enough to feed yourself and a number of others equal to your level in Fisherman, assuming you choose to spend at least an hour or so with the line and bait. You may secure more fish in addition to this with enough time.
 ## Flee!
@@ -179,7 +181,7 @@ Max: 1
 
 You gain a permanent addition of 4 wounds. Simple as that.
 ## Hatred
-Max: Stamina
+Max: 2
 
 You are consumed with hatred for a group, typical examples include: Beastmen, Greenskins, Monsters, Outlaws, Sigmarites, Undead & Witches. For each level in this talent choose one of the following:
 
@@ -339,7 +341,7 @@ You can reload blackpowder weapons with practiced ease. On a passed Blackpowder 
 ## Professional
 Max: 3
 
-You've been around soldiers and armies enough to be familiar with their innerworking. When trying to procure equipment, dodge responsibility, or get favorable orders get bonus dice equal to your level in this talent.
+You've been around soldiers and armies enough to be familiar with their innerworkings. When trying to procure equipment, dodge responsibility, or get favorable orders get bonus dice equal to your level in this talent.
 ## Ready, Loose!
 Max: Agility
 
@@ -351,7 +353,7 @@ Max: Intelligence
 
 You are one of the rare literate individuals in the world. You are assumed to be able to read and write (if appropriate) 1 language you can speak per level in this talent.
 ## Relentless
-Max: Stamina
+Max: Withstand
 
 When you have your mind set on a target, there is nothing anyone can do to stop you reaching them. Whenever you miss your target you gain a +1 bonus if your next attack is against the same target. This bonus stacks up to your level in this talent.
 ## Resolute
@@ -420,7 +422,7 @@ You can make shots of exceptional accuracy. You ignore any difficulty to ranged 
 ## Slayer
 Max: 1
 
-When attacking  a target substantially larger than yourself in melee you have been known to attack somewhat recklessly. You may opt to deal double the listed weapon damage, however you suffer a -2 to dodge tests.
+When attacking a target substantially larger than yourself in melee you have been known to attack somewhat recklessly. You may opt to deal double the listed weapon damage, however you suffer a -2 to dodge tests.
 ## Sniper
 Max: 1
 
@@ -450,7 +452,7 @@ Max: 1
 
 You know how to keep yourself together. When panicking, roll 3d6 and take the best two.
 ## Strider(Terrain)
-Max: Stamina
+Max: Withstand
 
 You are experienced in traversing difficult ground. You ignore all movement penalties when crossing over or through a specified terrain. Typical specialties include: coastal, deserts, marshes, rocky, tundra, woodlands.
 ## Strike Mighty Blow
@@ -532,8 +534,7 @@ You are a jaded veteran who has survived more than one hail of shots from deadly
 ## Very Resilient
 Max: 1
 
-You gain a permanent +1 to your Stamina.
-
+You gain a permanent +1 to your Withstand.
 ## Very Strong
 Max: 1
 
