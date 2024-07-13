@@ -1,3 +1,4 @@
+Make sure to check out [[Equipment|the equipment page]] for more non-violent options.
 # Weapons
 
 | Type                   | Damage | Bonus | Cost | Qualities      |
@@ -45,28 +46,28 @@
 | Sling                  | 1      | 1     | 2    | Sh             |
 | Stone                  | 1      | -     | -    | -              |
 ## Weapon Qualities
-
-### Balanced
+Weapon qualities are all shorthanded in the equipment table and explained in full below.
+### Balanced (Ba)
 Weapon provides +1 to Reflex Saves when defending from a melee attack.
-### Crushing
+### Crushing (Cr)
 Defender’s armor is reduced by one with each hit, requiring repair to reach full armor value.
-### Cumbersome
+### Cumbersome (Cu)
 Weapon reduces user’s Reflex Saves by one. 
-### Ensnaring
+### Ensnaring (En)
 Struck enemies cannot move and have a 3/6 chance of failing all actions (except freeing themselves). Attempting to free requires a successful grapple test. Melee ensnaring weapons knock targets prone at 2+ SL after Dodge
-### Flexible
-Can be used in either one or both hands.
-### Impact
+### Flexible (Fl)
+Can be used in either one or both hands. Differences in damage and bonus are denoted in the table with a slash.
+### Impact (Im)
 Deals +1 damage while mounted.
-### Jointed
+### Jointed (Jo)
 Ignore armor provided by shields.
-### Long
+### Long (Lo)
 +1 bonus to reflex saves when attacked by a large creature or mounted enemy. Cannot be used indoors.
-### Reloading
+### Reloading (Re)
 Takes a combat action to reload 
-### Short
+### Short (Sh)
 Easily concealed.
-### Two-handed
+### Two-handed (Tw)
 Requires two hands to operate
 ## Non-Inherent Qualities
 ### Engraved
@@ -77,18 +78,14 @@ Engraving  is the quickest way to elevate yourself above other wealthy folk. Th
 + Truly exceptional engravings can be had for 1000 marks
 ### Guildmade
 Marked with the seals of the craftsman guilds, you know this piece is of high quality. Organized labor costs extra, and the guilds can always refuse to sell to unscrupulous buyers.
-
-Increase the weapon’s bonus by 1 - it costs (base + 10) * 1.5
++ Increase the weapon’s bonus by 1 - it costs (base + 10) * 1.5
 ### Masterwork
 A masterwork piece is the best a craftsman can offer. A one of a kind tool. It is balanced, smooth, and terribly effective. 
-
-Increase the weapon’s bonus by 2 - it costs (base + 70) * 3
++ Increase the weapon’s bonus by 2 - it costs (base + 70) * 3
 ### Shoddy
 This weapon was made quickly and as cheaply as possible. It will likely serve, for now. 
-
-Decrease the weapon’s bonus by 1. If the bonus is already 1, reduce the damage by 1 instead. 
-
-Reduce the cost of the weapon by 25%.
++ Decrease the weapon’s bonus by 1. If the bonus is already 1, reduce the damage by 1 instead. 
++ Reduce the cost of the weapon by 25%.
 ## Ammo
 | Ammo          | Count | Cost | Properties |
 | ------------- | ----- | ---- | ---------- |

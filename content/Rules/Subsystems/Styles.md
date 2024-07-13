@@ -52,7 +52,8 @@ anti-stress stance?
 
 ## 
 
-
+# Dead talents
+Below are old talents that I found redundant with the styles system. While not are implemented yet, they remain as inspiration for the time being. 
 ### **Bodyguard
 
 Max: 1

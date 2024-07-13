@@ -68,6 +68,10 @@
 | --------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Chicken         | 8    |                                                                                                                                                |
 | Cow             | 200  |                                                                                                                                                |
+| Dog, Bloodhound | 120  |                                                                                                                                                |
+| Dog, Exotic     | 600  |                                                                                                                                                |
+| Dog, Hunting    | 85   |                                                                                                                                                |
+| Dog, Untrained  | 25   |                                                                                                                                                |
 | Goat            | 85   |                                                                                                                                                |
 | Horse, Courser  | 350  | A horse bred for travel. Great for riding distances while carrying an armored soldier.                                                         |
 | Horse, Destrier | 600  | A horse bred for bursts of speed. A warhorse trained to fight with hoof and bite.                                                              |
