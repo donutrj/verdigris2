@@ -6,22 +6,27 @@ These techniques are broken down in the following categories, each having a time
 + **Techniques**: are active moves in combat. While sometimes declared as part of an attack, many can be used at any time. One technique may be used per combat round.
 
 Some styles have prerequisites as denoted in their individual sections.
-
 ## Universal
 All duelists have access to a few common techniques, these are available no matter which schools you learn.
 + **Technique: Shield -** Hiding behind your shield, you let it take the blow. Double the number of gear dice from your shield.
 + **Technique: Parry -** You stand tall and attempt to move your opponent's weapon off-line. Roll 1d6, on a six the attack misses.
 + **Technique: Riposte -** When an opponent misses their strike, you may deal 2 damage in a counterattack.
 ## Orthodox
-+ **Stance: Benedict's Third Form -** A broad, open stance that leaves options open to the duelist. When attacked, gain a +1 bonus to reflex saves.
-+ **Technique: Frasier's 'Open Counterpoint' -** 
-+ **Stance: Benedict's Eighth Form -**
-+ **Technique: Ryanault's  Assertion, (late) -**
++ **Stance: Benedict's Third Form -** A broad, even stance that leaves options open to the duelist. When attacked, gain a +1 bonus to reflex saves.
++ **Technique: Frasier's 'Open Counterpoint' -** While in any of Benedict's Forms, (barring the seventh) you may react to an opponent's actions with an attack; using your combat action. This does not need to respect normal turn order.
++ **Stance: Benedict's Eighth Form -** A narrow, forward-leaning stance that encourages aggression. Gain +1 bonus to attacks.
++ **Technique: Rynault's  Assertion, (late) -** The revised version of one of Rynault's famous lunges. While your grandfather's instructor likely taught the technique, that makes it no less deadly today. When attacking with a pointed weapon, the opponent only benefits from half armor as your strike between the plates.
 
 ## Fashionable
-
+rapiers rapiers rapiers
+dueling pistols?
+frumpy hats
 ## Flashy
 take it on the armor, bonus counterattack
+dramatic lunge with downside
+risk it for the biscuit stance
+jab jab jab
+
 
 ## Discrete
 + **Technique: Cloak & Dagger -** When an opponent misses their attack, you may smoothly wipe their blade clean of any poison on your cloak and stick them with your dagger for it's damage value.
@@ -30,7 +35,11 @@ take it on the armor, bonus counterattack
 + **Stance: From the Shadows -** Shooting a bow from a hidden position does not give away your position.
 + **Technique: Bad Intentions -** When attacking, you may make a feint instead. For each SL on the attack, instead of damaging, gain twice that many bonus dice on the next attack made against the target, whether you or an ally makes the attack.
 ## Knightly
-
+inspire the friends
+protect the weak
+crushing blow
+shrug off massive wounds
+anti-stress stance?
 
 ## Underhanded
 + **Stance: The Rat -** While balanced on the balls of your feet you may make reflex saves with +1 and exit melees unopposed.
