@@ -77,5 +77,5 @@ Hands are what characters actively hold. There are two slots, each for one hand.
 ## Belt
 A character’s belt is where you’d stash your weapon, ammo, and other rapidly accessible items.
 ## Pack
-A character’s pack is where they keep bulk items that don’t need to be accessed in the heat of the moment. A pack is no less than two slots, and is otherwise equal to a character’s current [[Characters#Attributes|strength]]. Despite being large shields only take one slot because it is assumed you’d strap them to the back like a turtle shell. Make sure to remove controversial insignia before heading into town.
+A character’s pack is where they keep bulk items that don’t need to be accessed in the heat of the moment. A pack is no less than two slots, and is otherwise equal to a character’s current [[Characters#Attributes|strength]]. 
 
