@@ -1,3 +1,7 @@
+---
+title: Talents
+---
+
 ## Accurate Shot
 Max: Advanced Training
 

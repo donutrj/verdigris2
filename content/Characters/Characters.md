@@ -242,3 +242,6 @@ When making a character, work with the other players at find a dynamic between y
 | Creditor & Debtor      |
 # Gear
 In addition to the starting gear provided by the backgrounds, a player may purchase [[Equipment|equipment]] and [[Arms & Armor|arms]] with a starting pool of 10d6 silver.
+
+# Skills
+Skills are learned bonuses that apply to tests and saves. Characters start with no skills. Learn more about them [[Skills|here]].
