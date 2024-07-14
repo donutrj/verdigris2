@@ -54,4 +54,4 @@ A character can access items on their belt as a free action, whereas getting an 
 
 It is also important to determine if a character is wearing their heavy pack as they fight. A pack imposes two difficulty on all tests and saves when worn.
 
-Read more about inventory [[System#Inventory|here]].
+Read more about inventory [[Tests & Saves#Inventory|here]].
