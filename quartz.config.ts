@@ -28,12 +28,12 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F7F8F7", //background
+          light: "#FCF7E9", //background
           lightgray: "#afb6af", //borders
           gray: "#afb6af", //graph links, heavy borders
           darkgray: "#432e14", //body text
           dark: "#CEB278", //header text & icons
-          secondary: "#79b791", //link color
+          secondary: "#79B791", //link color
           tertiary: "#ABD1B5", //hover state
           highlight: "D1E6D6", //markdown highlighted text background
         },
