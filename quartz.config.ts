@@ -32,7 +32,7 @@ const config: QuartzConfig = {
           lightgray: "#afb6af", //borders
           gray: "#afb6af", //graph links, heavy borders
           darkgray: "#432e14", //body text
-          dark: "#79B791", //header text & icons
+          dark: "#a99070", //header text & icons
           secondary: "#D64045", //link color
           tertiary: "#ABD1B5", //hover state
           highlight: "ebe2d5", //markdown highlighted text background
