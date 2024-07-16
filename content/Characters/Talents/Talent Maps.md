@@ -105,11 +105,59 @@ E(Disease Resistant)
 F(Fast Hands)
 G(Perfect Pitch)
 H(Shadow)
+I(Master of Disguise)
+J(Criminal)
+K(Ringleader)
+L(Wealthy)
+M(Carouser)
+N(Blather)
+O(Etiquette)
+P(Lip Reading)
+Q(Cheat)
+R(Gregarious)
+S(Orator)
+T(Mimic)
+U(Linguistics)
+V(Cardsharp)
+W(Briber)
+X(Cat-Tongued)
+Y(Embezzle)
+Z(Schemer)
+AA(Secret Identity)
+AB(Supportive)
 
+E
+G
 A --> B
 C --> B
 C --> D
 C --> F
 C --> H
+F --> I
+I --> J
+J --> K
+K --> L
+B --> J
+D --> J
+M --> Q
+M --> R
+M --> S
+N --> Q
+O --> S
+O --> R
+Q --> V
+R --> W
+W --> Y
+W --> X
+S --> X
+P --> X
+P --> T
+T --> U
+I --> AA
+Z --> AA
+Y --> J
+X --> Z
+Y --> AB
+AB --> L
 
 ```
