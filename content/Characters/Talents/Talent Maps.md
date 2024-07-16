@@ -161,3 +161,124 @@ Y --> AB
 AB --> L
 
 ```
+# Fighter Talents
+----
+``` mermaid
+graph LR
+
+A(Horsemanship)
+B(Crack the Whip)
+C(Roughrider)
+D(Charge!)
+E(Jouster)
+F(Harrier)
+G(Lightning Reflexes)
+H(Strong Legs)
+I(Strong Back)
+J(Flee!)
+K(Weapon Training)
+L(Combat Reflexes)
+M(Styles)
+O(Professional)
+P(Drilled)
+Q(Brother in Arms)
+R(Inspirited)
+S(Heroic)
+T(Inspiring)
+U(Resolute)
+V(Commanding Presence)
+W(Tenacious)
+X(Coolheaded)
+Y(Sharpshooter)
+Z(Ready, Loose!)
+AA(Blackpowder)
+AB(Field Dressing)
+AC(Sniper)
+AD(Nimble Fingers)
+AE(Practiced Gunner)
+AF(Surgery)
+AG(Deadeye Shot)
+AH(Accurate Shot)
+AI(Sure Shot)
+AJ(Stone Soup)
+AK(Hardy)
+AL(Iron Jaw)
+AM(Stout-Hearted)
+AN(Inspiring)
+AO(Menacing)
+AP(Relentless)
+AQ(Frenzy)
+AR(Strike Mighty Blow)
+AS(Berserk Charge)
+AT(Fearless)
+AU(Slayer)
+AV(Strike to Injure)
+AW(Unshakable)
+AX(Implacable)
+AY(Very Strong)
+AZ(Hatred)
+BA(Iron Will)
+BB(Very Resilient)
+
+A --> B
+A --> C
+B --> D
+C --> D
+C --> E
+C --> F
+D --> G
+E --> G
+H --> I
+J --> L
+K --> L
+K --> M
+K --> O
+L --> O
+M --> P
+M --> Q
+Q --> R
+Q --> S
+Q --> T
+R --> U
+S --> U
+S --> V
+S --> W
+S --> X
+T --> V
+T --> W
+O --> Y
+O --> Z
+O --> AA
+O --> AB
+Y --> AC
+AC --> AG
+AC --> AH
+AC --> AI
+Z --> AD
+AA --> AE
+Z --> X
+AB --> AF
+AK --> AL
+AL --> AM
+AM --> AN 
+Q --> AN
+AN --> V
+AN --> W
+AO -->  AQ
+AP --> AQ
+AP --> AR
+AP --> AS
+AQ --> AT
+AQ --> AZ
+AQ --> AU
+AR --> AV
+AV --> AY
+AU --> AY
+AZ --> AW
+AZ --> AX
+AT --> AW
+P --> AW
+AW --> BA
+AW --> BB
+AX --> BA
+```
