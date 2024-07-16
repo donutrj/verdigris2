@@ -5,7 +5,8 @@ All tests are made by identifying which attribute best fits the challenge. Then 
 1. Does the character's background or any [[Skills|skills]] fit the current test? Add a bonus die for the background and bonus dice equal to the level in a relevant skill.
 2. Does the character currently have any [[Stress & Panic|stress]]? Add stress dice to the pool equal to their stress.
 3. Is the character using any [[Equipment|equipment / weapon]]? Add equipment dice equal to the bonus it'd provide
-4. Does the character have some sort of advantage? The GM will let you know if something would provide extra bonus dice.
+4. Does the player want to spend [[Dark Bargains & Inspiration#Inspiration|an inspiration]] on this for a bonus
+5. Does the character have some sort of advantage? The GM will let you know if something would provide extra bonus dice.
 ### Pushing a Test
 After a test is made, a player can elect to push a roll. This is attempted to achieve greater SL at the risk of character harm. To push a roll do the following:
 1. Set all ones and sixes aside
@@ -16,7 +17,7 @@ After a test is made, a player can elect to push a roll. This is attempted to ac
 
 Depending on the origin of ones, different things occur:
 + Ones rolled on attribute dice reduce the attribute, hindering further tests until recovery
-+ Ones rolled on stress dice trigger an immediate panic save
++ Ones rolled on stress dice trigger an immediate [[Stress & Panic#Making a Panic Save|panic save]]
 + Ones rolled on gear dice damage the gear or break it completely when reduced to 0
 + Ones rolled on skill and bonus dice have no ill effects
 # Saves
@@ -25,6 +26,6 @@ Saves are made whenever something is happening to a character. Where a test is u
 Making a save is largely the same as making a test, but there are a few exceptions. Namely, saves do not benefit from stress. Each save has different consequences when a pushed save is unsuccessful.
 ### Pushing Saves
 + Panic: roll 3d6 on the [[Stress & Panic#Panic|panic table]] and keep the two highest
-+ Reflex: fall prone, risking damaging equipment
-+ Warding: Become scattered
++ Reflex: fall [[Conditions & Effects#Falling Prone|prone]], risking damaging equipment
++ Warding: Become [[Conditions & Effects#Scattered|scattered]]
 + Withstand: Take 1d6 damage & reduce armor on ones (gear dice)

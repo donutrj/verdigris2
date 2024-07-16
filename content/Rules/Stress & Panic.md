@@ -1,6 +1,9 @@
 # Panic
 Whenever you elect to push a test, or in the case of some abilities, you will gain stress. Stress can be helpful, each stress grants you an extra die on tests. Downside is when you roll a one on a stress die (even when not pushing) you must make a Panic Save.
 
+## Making a Panic Save
+Roll a Panic Save as per the character sheet, looking to get SL equal to the number of ones rolled on the stress dice.
+
 If you succeed, reduce stress to 0 and continue the action. If you fail, roll on the following table to determine the effect:
 
 | 2d6+stress | Panic Effect                                                                                                                                                  |

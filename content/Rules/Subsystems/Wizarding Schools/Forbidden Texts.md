@@ -6,7 +6,7 @@ The dead are hateful, soulless things. To drag them from the ground is a sure wa
 
 A number of skeletons equal to the test’s SL rise from the ground. They will obey for a time, but cannot be trusted to remain loyal.
 ## Baleful Polymorph
-Target: 3
+Target: 3--5
 
 A bolt of chaos is thrown at a target. Treat as a defense against a ranged attack, with the spell SL compared to the defense. If the attack succeeds, the victim is transformed, as desired by the caster.
 ## Charm Monster
