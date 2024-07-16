@@ -68,6 +68,7 @@ T(Alchemy)
 U(Savant)
 V(Batch Processing)
 W(Witchcraft)
+X(War Wizard)
 
 
 A --> B
@@ -91,6 +92,7 @@ R --> O
 S --> U
 T --> V
 T --> W
+M --> X
 ```
 # Criminal Talents
 ----

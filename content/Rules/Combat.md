@@ -29,7 +29,7 @@ If the defender is in a melee, the shot suffers from -1 penalty for each partici
 
 If the defender has a shield while defending from a ranged attack (except for blackpowder weapons) they get a +1 bonus in their reflex save
 ### Mounted Combat
-Mounts act on the same turn as their rider. Unless trained otherwise, a horse’s natural reaction to danger is to run. When trying to convince a horse to take an action outside its training or tendencies, make a personality test. 
+Mounts act on the same turn as their rider. Unless trained otherwise, a horse’s natural reaction to danger is to run. When trying to convince a horse to take an action outside its training or tendencies, make a charisma test. 
 + Once in a melee, a horse will attack perceived threats using its Quality + Bonus similar to  an attack as made by a player. This test cannot be pushed.
 + The rider gets a +1 to all melee tests made when on horseback as long as their weapon does not have the Short quality.
 + Ranged weapons cannot be shot or reloaded on horseback without the requisite talents.

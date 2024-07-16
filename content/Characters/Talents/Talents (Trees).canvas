@@ -120,7 +120,8 @@
 		{"id":"4e4be242b65f4d82","type":"text","text":"[[Talents Master List#Tinker|Tinker]]","x":-210,"y":-707,"width":250,"height":60},
 		{"id":"68eaa279590186a2","type":"text","text":"[[Talents Master List#Berserk Charge|Berserk Charge]]","x":980,"y":117,"width":250,"height":60},
 		{"id":"060b7ef6363a6c18","type":"text","text":"[[Talents Master List#Strong-minded|Strong-Minded]]","x":-2592,"y":-340,"width":250,"height":60},
-		{"id":"7f9a393f66a12d6a","type":"text","text":"[[Talents Master List#Tunnel Fighter|Tunnel Fighter]]","x":-2592,"y":-527,"width":250,"height":60}
+		{"id":"7f9a393f66a12d6a","type":"text","text":"[[Talents Master List#Tunnel Fighter|Tunnel Fighter]]","x":-2592,"y":-527,"width":250,"height":60},
+		{"id":"260db251d61e5958","x":-787,"y":-190,"width":250,"height":60,"type":"text","text":"[[Talents Master List#War Wizard|War Wizard]]"}
 	],
 	"edges":[
 		{"id":"44dc092ec3b7b7ae","fromNode":"51cbafbb06683963","fromSide":"bottom","toNode":"7f9a393f66a12d6a","toSide":"top"},
@@ -252,6 +253,7 @@
 		{"id":"b802de53e892409f","fromNode":"7f9a393f66a12d6a","fromSide":"bottom","toNode":"060b7ef6363a6c18","toSide":"top"},
 		{"id":"6cf013a6e8b7c422","fromNode":"1a4bbb8d1309c298","fromSide":"bottom","toNode":"060b7ef6363a6c18","toSide":"top"},
 		{"id":"dd12747394d6feff","fromNode":"98f017c8133884d1","fromSide":"bottom","toNode":"6a525935db33e49a","toSide":"top"},
-		{"id":"f676f038d3055413","fromNode":"80a0fad648974efb","fromSide":"bottom","toNode":"47af0104805a091e","toSide":"top"}
+		{"id":"f676f038d3055413","fromNode":"80a0fad648974efb","fromSide":"bottom","toNode":"47af0104805a091e","toSide":"top"},
+		{"id":"e0c58a84194fab7f","fromNode":"599c7f12fada57b1","fromSide":"bottom","toNode":"260db251d61e5958","toSide":"top"}
 	]
 }

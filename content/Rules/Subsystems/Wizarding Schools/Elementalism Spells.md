@@ -1,39 +1,39 @@
 ## Darkness
-Target: 1SL
+Target: 1–3
 
-More than the absence of light, the active presence of darkness. Petty casts are used to make potions look more impressive.
+More than the absence of light, the active presence of darkness. 
 
 Total darkness suffuses an area, out to a distance a torch would illuminate. No light may pierce such magical darkness. Lasts 24 hours. Unlike light, it is bound to an area and cannot be carried.
 ## Fireball
-Target: 4SL
+Target: 4–8
 
 The demo given to all first-years at university, the mighty fireball. Not simply show, but also a dangerous instrument of warfare. Also the reason university buildings are all mandated to be built of brick.
 
-A crackling ball of magic is thrown. When it lands it erupts into a ball of fire, detonating. Those exposed to its blast take 5 + SL wounds - SL from a dodge save.
+A crackling ball of magic is thrown. When it lands it erupts into a ball of fire, detonating. Those exposed to its blast take 5 + SL damage reduced by the SL of a dodge save.
 ## Knock
-Target: 1SL
+Target: 1–3
 
 Born from the school of elementalism, but oft argued to be moved to the school of enchantment. Elementalists note that knock did derive from their learnings, born of elemental state of openness while enchanters believe it applies the state of openness to objects that would not otherwise have it. Elementalists refute this view as they claim knock creates a state of openness distinguished from the object. Additional arguments revolve around casting knock on things that naturally have openness. 
 
 A single lock or door becomes unlocked when touched with an uncut key. 
 ## Light
-Target: 1SL
+Target: 1
 
 Light, what can one say? Used to blind, to aid in searches, to notify. Not sunlight, not firelight, not moonlight. Simply light.
 
-The caster touches an object, imbuing it with light. An unwilling target may make a dodge save. Touched in the eyes leaves the target blinded. Lasts 12 hours.
+The caster touches an object, imbuing it with light. An unwilling target may make a warding save. Touched in the eyes leaves the target [[Conditions & Effects#Blindness|blinded]]. Lasts 12 hours.
 ## Lightning Bolt
-Target: 4SL
+Target: 2–4
 
 A bolt of lightning is flung, dealing 3SL damage to a target. It passes directly through the victim, potentially injuring others. It might (4-in-6 chance) bounce off any hard surface, reflecting towards other victims. Determine randomly.
 ## Mend Flesh
-Target: 2SL
+Target: 1–6
 
 Pulling magic from the surrounding landscape, the caster imbues the target with the borrowed health of the land. Much of the surrounding grasses will be partially transformed to blood and flesh, snagged on the way to the target's body. 
 
-The target regains wounds equal to the SL of the spell. They may be left with a craving for spicy foods.
+The target regains hit points equal to the SL of the spell. They may be left with a craving for spicy foods.
 ## Reflect Spell
-Target: 2SL
+Target: 2
 
 It is oft easier to alter pieces than the whole. This spell simply redirects the magic’s intent. 
 
@@ -41,18 +41,20 @@ Cast in reaction to another spell going off, doing so is a reaction and will for
 
 When successful, select a new target for a caster’s spell. The new target cannot be the caster themself.
 ## Stifle
-
+Target: ?
 A spell that, when used properly, draws nods of approval from nearby casters. A technical piece with a sharp conclusion.
 
-Ingredients: Fruit pits, baked under the sun or in an oven. Polished, then carved with runes.
+Cast in reaction to another spell going off, doing so is a reaction and will forfeit your next turn in combat. 
 
-As a reaction to another spell, throw the pits at the caster. If your SL is equal to or greater than the opponents, the spell is stifled. 
+As a reaction to another spell,. If your SL is equal to or greater than the opponents, the spell is stifled. Regain SL hit points.
+
+If your SL was greater than the opponent's roll a miscast.
 ## Teleport
-Target: 3SL
+Target: 3+
 
 It was once that kings might have their messengers teleport. Such lavishness has fallen from favor as the colleges squeeze ever more for their services. Birds are much less temperamental than wizards. 
 
-The witch brews tea. Those that drink from the brew are teleported to the herbal origin. A number of targets can be brought equal to the caster’s SL. The caster must be among the travelers. Preferring flexibility of location, the teas are oft less than tasty. 
+A number of targets can be brought equal to the caster’s SL. The caster must be among the travelers. 
 ## Wall of Fire
 Target: 3SL
 

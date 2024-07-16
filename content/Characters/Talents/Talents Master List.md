@@ -1,5 +1,5 @@
 ---
-title: Talents
+title: Talents Master List
 ---
 # Talents
 Here is a master list of all the talents, if you want to see how they all fit together, check out the [[Talent Trees|talent trees]].
@@ -28,7 +28,7 @@ You have been trained in the use and maintenance of blackpowder weaponry. This m
 ## Blather
 Max: 1
 
-Bullshitting. Blathering involves talking rapidly and incessantly, or talking volubly and at-length, about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. With a successful Personality test, the target is forced to waste time and effort dismissing your rambles.
+Bullshitting. Blathering involves talking rapidly and incessantly, or talking volubly and at-length, about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. With a successful charisma test, the target is forced to waste time and effort dismissing your rambles.
 ## Bookish
 Max: Intelligence
 
@@ -38,11 +38,11 @@ Max: Strength
 
 You are an expert at quickly kicking down doors and forcing entry. You may add +1 bonus for each level in this talent when attempting to break open doors, chests, windows, gates, and the like.
 ## Briber
-Max: Personality
+Max: Charisma
 
 You know how to bring up a monetary encouragement with a bit more tact than most. When negotiating a bribe gain a bonus equal to your level in this talent. 
 
-If you fail to bribe a source, either because they cannot be bribed or otherwise, make a personality test to see if you can close out the exchange without aggravating your target
+If you fail to bribe a source, either because they cannot be bribed or otherwise, make a charisma test to see if you can close out the exchange without aggravating your target
 ## Brothers in Arms
 Max: Party Size
 
@@ -76,7 +76,7 @@ Max: 1
 
 You blend truth and lies as if there were no difference. When lying, listeners do not get to oppose your Charm with their own test detect. Lies must still be believable and if you say something they know to be false you'll still be caught.
 
-You can still fail by getting 0 SL on your personality test.
+You can still fail by getting 0 SL on your charisma test.
 ## Combat Reflexes
 Max: 1
 
@@ -127,11 +127,11 @@ Max: 1
 
 You have been trained to fight shoulder-to-shoulder with other professionals. Gain a +1 bonus to armor rolls for each ally with drilled that shares a melee with you.
 ## Embezzle
-Max: Personality
+Max: Charisma
 
 You are skilled at skimming money from your employers without being detected. Whenever you secure money you may attempt an opposed test with your employer. If you win, you skim an additional 5% for every level you have in this talent. If your employer wins, you fail to embezzle money.
 ## Etiquette
-Max: Personality
+Max: Charisma
 
 You can blend in socially with the chosen group so long as you are dressed and acting appropriately. Example social groups for this Talent are: Criminals, Cultists, Guilders, Nobles, Scholars, Peasants, and Soldiers. If you do not have the Talent, those with it will note your discomfort in the unfamiliar environment. This is primarily a matter for roleplaying, but may confer a bonus to Tests as the GM’s discretion.
 ## Fast Hands
@@ -178,7 +178,7 @@ While subject to Frenzy you will not flee or retreat for any reason. All attacks
 
 You cannot use any [[Styles|Styles]] while in frenzy.
 ## Gregarious
-Max: Personality
+Max: Charisma
 
 You just like talking to other folk and it seems they like talking to you. You gain a bonus die for all gossip related tests for each level in this talent.
 ## Hardy
@@ -216,13 +216,13 @@ You are a skilled hunter and know all the best techniques to find game. When tra
 ## Impassioned Zeal
 Max: 1
 
-When you talk about your cause, case, or religion, your words fill with passion and fervent zeal. You may double your Personality on relevant tests.
+When you talk about your cause, case, or religion, your words fill with passion and fervent zeal. You may double your Charisma on relevant tests.
 ## Implacable
 Max: 1
 
 Blood may stream from your wounds, but it takes more to finish you off. You cannot be brought to death’s door from bleeding.
 ## Inspiring
-Max: Personality
+Max: Charisma
 
 Your rousing words and pleas can turn the tide of battle. Allies within line of sight gain +1 bonus to all panic saves per level in this talent.
 ## Inspirited
@@ -291,7 +291,7 @@ You have an imposing presence. When attempting to intimidate, gain a bonus equal
 
 #edit kinda redundant with [[Talents Master List#Frightening|Frightening]]
 ## Mimic
-Max: Personality
+Max: Charisma
 
 You have a good ear for accents and dialects, and can reproduce them accurately. You may replicate any accent you are exposed to for at least a day with a Performance Test. This test can be attempted once per day. Once passed, you may always mimic the accent, and locals will believe you to be one of their own. 
 
@@ -316,7 +316,7 @@ You are used to getting into, and preferably out of, trouble. You may attempt an
 ## Orator
 Max: 2
 
-You are skilled at firing up crowds. You gain +1 bonus  per level in this talent when using a Personality Test during public speaking.
+You are skilled at firing up crowds. You gain +1 bonus  per level in this talent when using a Charisma Test during public speaking.
 ## Orientation
 Max: Intelligence
 
@@ -326,7 +326,7 @@ Max: 2
 
 You've always been one to stuff your luggage to the brim. For each level in this talent gain two more slots to your pack inventory.
 ## Perfect Pitch
-Max: Personality
+Max: Charisma
 
 You have perfect pitch, able to replicate notes perfectly and identify them without even making a Test. Further, you are a capable singer, gaining a +1 bonus to such tests per level in Perfect Pitch.
 ## Pilot
@@ -405,9 +405,9 @@ Max: 1
 You can perceive the light of the gods emanating from the holy. It comes off as different whisps of light, faintly visible.  With a successful Intelligence test you can narrow down which gods might be doing the blessing.
 #edit kinda lame
 ## Secret Identity
-Max: Personality
+Max: Charisma
 
-You maintain a secret identity that allows you to appear richer, or perhaps poorer, than you actually are. With GM permission, choose any one career. As long as you are dressed appropriately, you may use the social status of the chosen career you masquerade as rather than your own for modifying tests. However, maintaining this identity will require personality tests when you encounter those who may recognize your falsehood. You may create a new secret identity for each level you have in this talent.
+You maintain a secret identity that allows you to appear richer, or perhaps poorer, than you actually are. With GM permission, choose any one career. As long as you are dressed appropriately, you may use the social status of the chosen career you masquerade as rather than your own for modifying tests. However, maintaining this identity will require charisma tests when you encounter those who may recognize your falsehood. You may create a new secret identity for each level you have in this talent.
 
 #edit might need some rewriting
 ## Shadow
@@ -484,7 +484,7 @@ Max: Intelligence
 You have a gift for calculation and can work out the solution to most mathematical problems with ease. Gain a +1 bonus per level in this talent to tests related to calculating and estimated sums
 
 ## Supportive
-Max: Personality
+Max: Charisma
 
 You know what to say and when to make the most impact upon your superiors. When you successfully use a social test to influence those with higher status tier, you can choose to either succeed by an additional SL per level in this talent, or gain a +1 bonus to all future tests against the same superior.
 ## Sure Shot
@@ -538,6 +538,10 @@ You gain a permanent +1 to your Withstand.
 Max: 1
 
 You gain a permanent +1 to your Strength.
+## War Wizard
+Max: 1
+
+You are adept at casting in the thick of things. You may now cast and channel while in a melee, additionally getting hit while channeling results in a Warding Save to avoid the otherwise magical catastrophe.
 ## Wealthy
 Max: None
 

@@ -4,7 +4,7 @@
 + **Strength**: the physical might of a character. It is used to test the force of a punch, the climbing of a rope, or when drawing the bow.
 + **Agility**: the speed and dexterity of a character. It is used to run away, pick locks, shoot crossbows and blackpowder arms.
 + **Intelligence**: the intellect of a character. It is used when casting spells, spotting tracks, and navigation.
-+ **Personality**: the social charm of a character. It is used in all kinds of social settings, uncovering lies, and pleading with gods for their blessings.
++ **Charisma**: the social charm of a character. It is used in all kinds of social settings, uncovering lies, and pleading with gods for their blessings.
 ## Saves
 [[Tests & Saves#Saves|Saves]] are used when something happens to a character. Whether when dodging attacks, remaining functional after a night's march, or keeping their cool.
 + **Panic**: made whenever a player rolls a 1 on their stress dice. Failure typically results on a roll on the [[Tests & Saves#Panic|panic table]].
@@ -27,7 +27,7 @@ Begin building a character by rolling 8d6 and increasing the stat by one corresp
 | 1    | Strength                           |
 | 2    | Agility                            |
 | 3    | Intelligence                       |
-| 4    | Personality                        |
+| 4    | Charisma                           |
 | 5    | Hit Points                         |
 | 6    | Roll again & increase by 2 instead |
 
