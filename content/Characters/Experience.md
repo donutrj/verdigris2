@@ -31,4 +31,4 @@ To improve a known skill, the character must have successfully made a test or sa
 *Level 1 -> Level 2 = 15xp*
 *Level 2 -> Level 3 = 20xp*
 ## Talents
-As long as you have the required prerequisite talent, you can add any talent or upgrade an existing talent for ten experience.
+As long as you have the required prerequisite talent, you can add any talent or upgrade an existing talent for ten experience. You can see the list of talents [[Talents Master List|here]] and the [[Talent Trees|talent tree here]].
