@@ -2,17 +2,17 @@
 ``` mermaid
 graph LR
 
-A("[[Talents Master List#Rover|Rover]]")
-B("[[Talents Master List#Hunter Eyes|Hunter Eyes]]")
-C("[[Talents Master List#Strider|Strider]]")
-D("[[Talents Master List#Jump Up|Jump Up]]")
-E("[[Talents Master List#Trapper|Trapper]]")
-F("[[Talents Master List#Catfall|Catfall]]")
-G("[[Talents Master List#Spiderclimb|Spiderclimb]]")
-H("[[Talents Master List#Sea Legs|Sea Legs]]")
-I("[[Talents Master List#Pilot|Pilot]]")
-J("[[Talents Master List#Swimmer|Swimmer]]")
-K("[[Talents Master List#Fisherman|Fisherman]]")
+A[Talents Master List#Rover]
+B[Talents Master List#Hunter Eyes]
+C[Talents Master List#Strider]
+D[Talents Master List#Jump Up]
+E[Talents Master List#Trapper]
+F[Talents Master List#Catfall]
+G[Talents Master List#Spiderclimb]
+H[Talents Master List#Sea Legs]
+I[Talents Master List#Pilot]
+J[Talents Master List#Swimmer]
+K[Talents Master List#Fisherman]
 
 C --> B
 A --> B
