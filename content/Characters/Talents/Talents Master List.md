@@ -1,7 +1,8 @@
 ---
 title: Talents
 ---
-
+# Talents
+Here is a master list of all the talents, if you want to see how they all fit together, check out the [[Talent Trees|talent trees]].
 ## Accurate Shot
 Max: Advanced Training
 
