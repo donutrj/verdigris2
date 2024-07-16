@@ -208,7 +208,7 @@ You clearly see the great works of the gods around you. You automatically know w
 Max: 4
 
 You are comfortable on horseback, confident in dealing with their temperments. You can ride a horse into combat or other dangerous situations without a test. Additionally, instead making a Dodge Save #edit when attacked on horseback, you instead roll dice equal to your level in horsemanship.
-## Hunter Eyes
+## Hunter's Eye
 Max: Intelligence
 
 You are a skilled hunter and know all the best techniques to find game. When traveling through well-stocked lands, you are automatically assumed to be able to hunt down enough game to feed yourself and a number of others equal to your level in this talent. You may secure more food in addition with more time.
