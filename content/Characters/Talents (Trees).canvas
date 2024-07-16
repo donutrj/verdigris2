@@ -86,10 +86,9 @@
 		{"id":"5bfed71ce00ec26b","type":"text","text":"[[Talents Master List#Holy Visions|Holy Visions]]","x":-1342,"y":-707,"width":250,"height":60},
 		{"id":"6a00b5de72eada2b","type":"text","text":"[[Talents Master List#Righteous Fury|Righteous Fury]]","x":-1342,"y":-527,"width":250,"height":60},
 		{"id":"02c270dd7c59dcf2","type":"text","text":"[[Talents Master List#Magic Resistance|Magical Resistance]]","x":-1907,"y":-527,"width":250,"height":60},
-		{"id":"7f9a393f66a12d6a","type":"text","text":"[[Talents Master List#Tunnel Fighter|Tunnel Fighter]]","x":-2585,"y":-527,"width":250,"height":60},
 		{"id":"1a4bbb8d1309c298","type":"text","text":"[[Talents Master List#Night Vision|Night Vision]]","x":-2310,"y":-527,"width":250,"height":60},
 		{"id":"f11afddbc4b9dea0","type":"text","text":"[[Talents Master List#Well Prepared|Well Prepared]]","x":-2870,"y":-527,"width":250,"height":60},
-		{"id":"7194f429df804957","type":"text","text":"[[Talents Master List#Hunter’s Eye|Hunter's Eye]]","x":-4260,"y":-527,"width":250,"height":60},
+		{"id":"7194f429df804957","type":"text","text":"[[Talents Master List#Hunter Eyes|Hunter Eyes]]","x":-4260,"y":-527,"width":250,"height":60},
 		{"id":"eb91ce910c93bcce","type":"text","text":"[[Talents Master List#Jump Up|Jump Up]]","x":-3990,"y":-527,"width":250,"height":60},
 		{"id":"1a415ee7b7abad4d","type":"text","text":"[[Talents Master List#Catfall|Catfall]]","x":-3710,"y":-527,"width":250,"height":60},
 		{"id":"c6eb4b2804d1dc5f","type":"text","text":"[[Talents Master List#Pilot|Pilot]]","x":-3432,"y":-527,"width":250,"height":60},
@@ -98,7 +97,7 @@
 		{"id":"dca539d8dc2ba1b9","type":"text","text":"[[Talents Master List#Packmule|Packmule]]","x":-2592,"y":-707,"width":250,"height":60},
 		{"id":"51cbafbb06683963","type":"text","text":"[[Talents Master List#Splunker|Splunker]]","x":-2312,"y":-707,"width":250,"height":60},
 		{"id":"9851ee20c9fd8b29","type":"text","text":"[[Talents Master List#Rover|Rover]]","x":-3992,"y":-707,"width":250,"height":60},
-		{"id":"a180f01cbb2204e1","type":"text","text":"[[Talents Master List#Strider(Terrain)|Strider]]","x":-4262,"y":-707,"width":250,"height":60},
+		{"id":"a180f01cbb2204e1","type":"text","text":"[[Talents Master List#Strider|Strider]]","x":-4262,"y":-707,"width":250,"height":60},
 		{"id":"c203b9a1ee9bd20a","type":"text","text":"[[Talents Master List#Sea Legs| Sea Legs]]","x":-3432,"y":-707,"width":250,"height":60},
 		{"id":"a29c24d682bb4a01","type":"text","text":"[[Talents Master List#Fisherman|Fisherman]]","x":-3152,"y":-707,"width":250,"height":60},
 		{"id":"109e24205a16d49c","type":"text","text":"[[Talents Master List#Favored|Favored]]","x":-1632,"y":-340,"width":250,"height":60},
@@ -110,9 +109,7 @@
 		{"id":"85e2a6fd1ce80aa0","type":"text","text":"[[Talents Master List#Seasoned Traveler|Seasoned Traveler]]","x":-2870,"y":-340,"width":250,"height":60},
 		{"id":"cd54b08d6f9da164","type":"text","text":"[[Talents Master List#Trapper|Trapper]]","x":-4260,"y":-340,"width":250,"height":60},
 		{"id":"fa0e2634dbf6fecf","type":"text","text":"[[Talents Master List#Spiderclimb|Spiderclimb]]","x":-3710,"y":-340,"width":250,"height":60},
-		{"id":"060b7ef6363a6c18","type":"text","text":"[[Talents Master List#Strong-minded|Strong-Minded]]","x":-787,"y":-707,"width":250,"height":60},
 		{"id":"1fbc9be795bccabc","type":"text","text":"[[Talents Master List#Resolute|Resolute]]","x":-670,"y":580,"width":250,"height":60},
-		{"id":"3593c44bb7de41e7","type":"text","text":"[[Talents Master List#Magical Sense|Magical Sense]]","x":780,"y":-677,"width":250,"height":60},
 		{"id":"27ff2ca0a0745561","type":"text","text":"[[Talents Master List#Witch|Witchcraft]]","x":350,"y":-340,"width":250,"height":60},
 		{"id":"d19e77963226bae2","type":"text","text":"[[Talents Master List#Magnum Opus|Magnum Opus]]","x":-500,"y":-340,"width":250,"height":60},
 		{"id":"58f2cfd1ac035017","type":"text","text":"[[Talents Master List#Master Craftsman|Master Craftsman]]","x":-500,"y":-527,"width":250,"height":60},
@@ -121,7 +118,9 @@
 		{"id":"4b21f5372800bec6","type":"text","text":"[[Talents Master List#Savant(Lore)*|Savant]]","x":-210,"y":-340,"width":250,"height":60},
 		{"id":"4b39a9e4fe0b7b21","type":"text","text":"[[Talents Master List#Batch Processing|Batch Processing]]","x":70,"y":-340,"width":250,"height":60},
 		{"id":"4e4be242b65f4d82","type":"text","text":"[[Talents Master List#Tinker|Tinker]]","x":-210,"y":-707,"width":250,"height":60},
-		{"id":"68eaa279590186a2","x":980,"y":117,"width":250,"height":60,"type":"text","text":"[[Talents Master List#Berserk Charge|Berserk Charge]]"}
+		{"id":"68eaa279590186a2","type":"text","text":"[[Talents Master List#Berserk Charge|Berserk Charge]]","x":980,"y":117,"width":250,"height":60},
+		{"id":"060b7ef6363a6c18","type":"text","text":"[[Talents Master List#Strong-minded|Strong-Minded]]","x":-2592,"y":-340,"width":250,"height":60},
+		{"id":"7f9a393f66a12d6a","type":"text","text":"[[Talents Master List#Tunnel Fighter|Tunnel Fighter]]","x":-2592,"y":-527,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"44dc092ec3b7b7ae","fromNode":"51cbafbb06683963","fromSide":"bottom","toNode":"7f9a393f66a12d6a","toSide":"top"},
@@ -249,6 +248,8 @@
 		{"id":"d18fcffab72d4466","fromNode":"dc5936375cf35d33","fromSide":"bottom","toNode":"1fbc9be795bccabc","toSide":"top"},
 		{"id":"288b4999c5f17283","fromNode":"dcd76fbdb93d3107","fromSide":"bottom","toNode":"1fbc9be795bccabc","toSide":"top"},
 		{"id":"074f296305add9a4","fromNode":"402a5077b26e26eb","fromSide":"bottom","toNode":"4b39a9e4fe0b7b21","toSide":"top"},
-		{"id":"2748e70a2d86648c","fromNode":"087bfd0ca38a81cf","fromSide":"bottom","toNode":"68eaa279590186a2","toSide":"top"}
+		{"id":"2748e70a2d86648c","fromNode":"087bfd0ca38a81cf","fromSide":"bottom","toNode":"68eaa279590186a2","toSide":"top"},
+		{"id":"b802de53e892409f","fromNode":"7f9a393f66a12d6a","fromSide":"bottom","toNode":"060b7ef6363a6c18","toSide":"top"},
+		{"id":"6cf013a6e8b7c422","fromNode":"1a4bbb8d1309c298","fromSide":"bottom","toNode":"060b7ef6363a6c18","toSide":"top"}
 	]
 }

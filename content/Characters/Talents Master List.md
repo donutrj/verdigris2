@@ -208,7 +208,7 @@ You clearly see the great works of the gods around you. You automatically know w
 Max: 4
 
 You are comfortable on horseback, confident in dealing with their temperments. You can ride a horse into combat or other dangerous situations without a test. Additionally, instead making a Dodge Save #edit when attacked on horseback, you instead roll dice equal to your level in horsemanship.
-## Hunter’s Eye
+## Hunter Eyes
 Max: Intelligence
 
 You are a skilled hunter and know all the best techniques to find game. When traveling through well-stocked lands, you are automatically assumed to be able to hunt down enough game to feed yourself and a number of others equal to your level in this talent. You may secure more food in addition with more time.
@@ -266,12 +266,6 @@ You can tell what people are saying by simply watching their lips; you do not ne
 Max: 1
 
 The gods smiled upon you and granted you with great fortune. Once per session you may reroll any one die.. This can be done after pushing.
-## Magical Sense
-Max: 1
-
-You can sense when persons and creatures are imbued with the magic of the wizarding type. Magically charged persons have a smell similar to ozone and almost feel like they have a bit too much static electricity on them. 
-
-It is obvious to others when you try to  feel the magic around you. #edit not really  a fan of this one, seems to be taking more away from the scrying school perhaps?
 ## Magic Resistance
 Max: 2
 
@@ -455,7 +449,7 @@ You know how to get by with very little. You can skip meals, consuming half as m
 Max: 1
 
 You know how to keep yourself together. When panicking, roll 3d6 and take the best two.
-## Strider(Terrain)
+## Strider
 Max: Withstand
 
 You are experienced in traversing difficult ground. You ignore all movement penalties when crossing over or through a specified terrain. Typical specialties include: coastal, deserts, marshes, rocky, tundra, woodlands.
@@ -570,4 +564,8 @@ You may now add casting and channeling to your skill list and increase them as s
 ## Wizardry
 Max: 1
 
-You have been educated in the classics of spellcasting. When you take this talent, select a school of magic from the [[Wizardry]] page. You may now attempt to cast spells from that list. 
+You have been educated in the classics of spellcasting.
+
+Gain two new skills if you don't have them already; Channeling and Casting. Learn more about casting spells in the [[Wizardry|wizardry]] page.
+
+When you take this talent, select a school of magic from [[Wizardry#Schools of Magic|these options]]. You may now attempt to cast spells from that list. 
