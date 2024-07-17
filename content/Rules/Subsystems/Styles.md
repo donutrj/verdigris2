@@ -18,10 +18,18 @@ All duelists have access to a few common techniques, these are available no matt
 + **Technique: Rynault's  Assertion, (late) -** The revised version of one of Rynault's famous lunges. While your grandfather's instructor likely taught the technique, that makes it no less deadly today. When attacking with a pointed weapon, the opponent only benefits from half armor as your strike between the plates.
 
 ## Fashionable
-rapiers rapiers rapiers
-dueling pistols?
-frumpy hats
++ **Technique: Draw. Quarter. Cut. -**
++ **Technique: Parry. Step. Jab. -**
++ **Stance: Merchant's Daughter -**
++ **Stance: A Lord's Pride -**
++ **Stance: The Fool -**
++ **Technique: The Fool's Cut -**
 ## Flashy
+- Technique: HI-YAH! -
+- Technique: AHHH! -
+- Technique: HA! -
+- Technique: HOO-AH! -
+- Technique: HEE-YAH! -
 take it on the armor, bonus counterattack
 dramatic lunge with downside
 risk it for the biscuit stance
@@ -35,12 +43,11 @@ jab jab jab
 + **Stance: From the Shadows -** Shooting a bow from a hidden position does not give away your position.
 + **Technique: Bad Intentions -** When attacking, you may make a feint instead. For each SL on the attack, instead of damaging, gain twice that many bonus dice on the next attack made against the target, whether you or an ally makes the attack.
 ## Knightly
-inspire the friends
-protect the weak
-crushing blow
-shrug off massive wounds
-anti-stress stance?
-
++ **Technique: Vanquish the Wicked -** When connecting with a melee attack, deal an extra 3 damage, and gain 1 [[Conditions & Effects#Exhaustion|exhaustion]].
++ **Stance: Protect the Weak -** Allies within the same melee as you gain +1 to reflex saves.
++ **Technique: Fall on the Sword -** When an ally would be struck in the same melee as you, instead you may take the blow.
++ **Technique: Rally the Righteous -** Allies within earshot may reduce their stress by d3.
++ **Technique: Feel No Pain -** When hurt, reduce the damage to 1 and gain 2 [[Conditions & Effects#Exhaustion|exhaustion]].
 ## Underhanded
 + **Stance: The Rat -** While balanced on the balls of your feet you may make reflex saves with +1 and exit melees unopposed.
 + **Technique: The Hawk -** You may make a free attack against a target who's head is below you, and deal two bonus damage; all without giving up your position.

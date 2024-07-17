@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(), //changed this
     Component.Backlinks(),
   ],
 }
