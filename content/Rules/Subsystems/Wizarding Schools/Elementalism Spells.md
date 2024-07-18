@@ -56,14 +56,14 @@ It was once that kings might have their messengers teleport. Such lavishness has
 
 A number of targets can be brought equal to the caster’s SL. The caster must be among the travelers. 
 ## Wall of Fire
-Target: 3SL
+Target: 4–5
 
 A useful spell, hardly subtle. A good way to identify the truly brave as they leap through the flames to attack you. It regularly ends poorly for those  folk; brave as they might be.
 
-The caster draws a line on the ground and fire erupts from it, 5ft thick, 15ft long, and 20ft high. Those attempting to move through it take d6 wounds and are set alight. Lasts 15 minutes.
+The caster draws a line on the ground and fire erupts from it, 5ft thick, 15ft long, and 20ft high. Those attempting to move through it take d6 damage and are set alight. Lasts 15 minutes.
 ## Wall of Ice
-Target: 3SL
+Target: 3–5
 
 With enough preparation, an ice wall can seriously impact the movements of whole battlefields. Wars have been won and lost by unexpected walls.
 
-A wall of ice, 5ft thick, 15ft long, and 20ft high forms instantly. A single blow dealing over 3SL wounds is required to destroy it. Unbroken, it melts over the course of an hour.
+A wall of ice, 5ft thick, 30ft long, and 20ft high forms instantly. A single blow dealing over 10 damage is required to destroy it. Unbroken, it melts over the course of an hour.

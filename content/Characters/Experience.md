@@ -24,7 +24,7 @@ Increasing an attribute depends on it's current maximum. The cost is equal to (5
 ## Saves
 Similar to attributes, cost depends on current maximums. The cost is equal to (5 * Current Max). 
 ## Skills
-To learn a new skill, a character must have successfully made a test without using a skill. At the end of that session, the player may name and increase the skill to one at a cost of 10xp.
+To learn a new [[Skills|skill]], a character must have successfully made a test without using a skill. At the end of that session, the player may name and increase the skill to one at a cost of 10xp.
 
 To improve a known skill, the character must have successfully made a test or save using it. The cost to increase a skill is an additional five per level. You cannot increase a skill beyond level three.
 

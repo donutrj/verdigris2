@@ -6,7 +6,7 @@ Whenever a character passes a test without using a skill, they mark down what th
 
 Below are a list of some potential skills a character might earn along the way.
 
-| Skills           |                  |               |
+| Example Skills   |                  |               |
 | ---------------- | ---------------- | ------------- |
 | Swordfighting    | Reading Emotions | Lying         |
 | Following Tracks | Arguing          | Cooking       |
