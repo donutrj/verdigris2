@@ -8,7 +8,7 @@
 ## Saves
 [[Tests & Saves#Saves|Saves]] are used when something happens to a character. Whether when dodging attacks, remaining functional after a night's march, or keeping their cool.
 + **Panic**: made whenever a player rolls a 1 on their stress dice. Failure typically results on a roll on the [[Tests & Saves#Panic|panic table]].
-+ **Reflex**: made when dodging an attack or avoiding danger. Failure typically results in a withstand save before damage is calculated. 
++ **Dodge**: made when dodging an attack or avoiding danger. Failure typically results in a withstand save before damage is calculated. 
 + **Warding**: made to resist magical effects. Failure means the whims of gods and wizards alike will affect you.
 + **Withstand**: made to endure hardship. These are often made to avoid harm from blows with gear bonuses from armor, or might be made without when slogging through the swamps for the forty-eighth hour.
 ## Wounds & Hit Points
@@ -37,7 +37,7 @@ Then roll another 8d6, assigning as follows:
 | Roll | Result                             |
 | ---- | ---------------------------------- |
 | 1    | Panic                              |
-| 2    | Reflex                             |
+| 2    | Dodge                              |
 | 3    | Warding                            |
 | 4    | Withstand                          |
 | 5    | Hit Points                         |

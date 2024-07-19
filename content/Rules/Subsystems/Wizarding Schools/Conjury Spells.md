@@ -7,7 +7,7 @@ An area is permanently lit by a gentle light. Overcasting results in a brighter 
 
 4+ SL results in a bright light. 8+ SL results in a blinding light. 
 ## Cloudkill
-Target: 2SL
+Target: 2–4`
 
 The caster exhales a heavier-than-air cloud large enough to fill a small room. It smells of whatever the caster last ate.
 

@@ -48,11 +48,11 @@ Make sure to check out [[Equipment|the equipment page]] for more non-violent opt
 ## Weapon Qualities
 Weapon qualities are all shorthanded in the equipment table and explained in full below.
 ### Balanced (Ba)
-Weapon provides +1 to Reflex Saves when defending from a melee attack.
+Weapon provides +1 to Dodge Saves when defending from a melee attack.
 ### Crushing (Cr)
 Defender’s armor is reduced by one with each hit, requiring repair to reach full armor value.
 ### Cumbersome (Cu)
-Weapon reduces user’s Reflex Saves by one. 
+Weapon reduces user’s Dodge Saves by one. 
 ### Ensnaring (En)
 Struck enemies cannot move and have a 3/6 chance of failing all actions (except freeing themselves). Attempting to free requires a successful grapple test. Melee ensnaring weapons knock targets prone at 2+ SL after Dodge
 ### Flexible (Fl)
@@ -62,7 +62,7 @@ Deals +1 damage while mounted.
 ### Jointed (Jo)
 Ignore armor provided by shields.
 ### Long (Lo)
-+1 bonus to reflex saves when attacked by a large creature or mounted enemy. Cannot be used indoors.
++1 bonus to Dodge saves when attacked by a large creature or mounted enemy. Cannot be used indoors.
 ### Reloading (Re)
 Takes a combat action to reload 
 ### Short (Sh)

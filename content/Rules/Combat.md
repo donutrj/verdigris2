@@ -13,7 +13,7 @@ Space in Verdigris is abstracted to zones. A character can use their movement to
 
 For the purpose of ranged combat, battles consist within the range of weapons. Penalties can be awarded for attempting long shots, shooting into cover, etc..
 ## Attacking & Defending
-To attack, a player makes a test (strength for melee & bows, agility for crossbows and blackpowder) opposed by the defender's reflex save. If the attacker gets more SL than the defender the attack connects. 
+To attack, a player makes a test (strength for melee & bows, agility for crossbows and blackpowder) opposed by the defender's dodge save. If the attacker gets more SL than the defender the attack connects. 
 
 The defender must then make a withstand save, adding gear dice for their armor. Each success reduces the damage of the attack by one. 
 ### Melees
@@ -23,17 +23,17 @@ If a side has a numeric advantage, all attacks from that side get bonus dice equ
 
 Leaving a melee requires an agility test, which can be opposed by one enemy's attack. Whether it connects or not, you escape the melee. 
 ### Ranged Combat
-Ranged combat uses the relevant skill opposed by the defender’s reflex save.
+Ranged combat uses the relevant skill opposed by the defender’s dodge save.
 
 If the defender is in a melee, the shot suffers from -1 penalty for each participant over 4. If the shot misses with 0 SL, then the shooter strikes an unintended target. Roll randomly to determine.
 
-If the defender has a shield while defending from a ranged attack (except for blackpowder weapons) they get a +1 bonus in their reflex save
+If the defender has a shield while defending from a ranged attack (except for blackpowder weapons) they get a +1 bonus in their dodge save
 ### Mounted Combat
 Mounts act on the same turn as their rider. Unless trained otherwise, a horse’s natural reaction to danger is to run. When trying to convince a horse to take an action outside its training or tendencies, make a charisma test. 
 + Once in a melee, a horse will attack perceived threats using its Quality + Bonus similar to  an attack as made by a player. This test cannot be pushed.
 + The rider gets a +1 to all melee tests made when on horseback as long as their weapon does not have the Short quality.
 + Ranged weapons cannot be shot or reloaded on horseback without the requisite talents.
-+ When attacking a mounted enemy, you can opt to strike the mount or the rider, the rider uses reflex saves as usual.
++ When attacking a mounted enemy, you can opt to strike the mount or the rider, the rider uses dodge saves as usual.
 + Mounts do not count towards numeric advantages for the purposes of melees
 ### Free Attacks
 Free attacks occur when a participant leaves a melee but also under different circumstances. Another example would be when someone is moving through a hostile occupied zone. Such as when leaving the building and attempting to flee for the trees when someone is waiting outside for anyone to run by.
