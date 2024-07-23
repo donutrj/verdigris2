@@ -10,7 +10,7 @@ A blessing which is minor in effect and in keeping with the goals and domain of 
 For example: 
 + If you worship the god of goats and you are attempting heal a sick goat with your god's energy, it should be tiny blessing and cost next to nothing. (Tiny, Aligned)
 + If you are tending to the fever of your human ally, that's not in the domain of the goat god, but the goat god is largely in support of good health and this is a partially aligned, costing 1 favor. (Tiny, Partially Aligned)
-+ If you are attempting to use your master's powers to break the limb of an innocent merchant, that's very much unaligned, but a relatively small ask. That would cost 1d6 favor. (small, unaligned)
++ If you are attempting to use your master's powers to break the limb of an innocent merchant, that's very much unaligned, but a relatively small ask. That would cost 4 favor. (small, unaligned)
 
 | Favor SL | Aligned | Partially Aligned | Unaligned |
 | -------- | ------- | ----------------- | --------- |

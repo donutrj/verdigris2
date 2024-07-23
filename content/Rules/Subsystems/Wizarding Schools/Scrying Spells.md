@@ -36,6 +36,8 @@ While holding the skull of your target, you may have a conversation with the dea
 Target: 2–3
 
 You may mentally manipulate items (one at a time) up to 10ft away for SL turns. 
+
+Moving items with any great precision requires slowing down. This is unsuited to fighting.
 ## True Seeing
 Target: 2 
 

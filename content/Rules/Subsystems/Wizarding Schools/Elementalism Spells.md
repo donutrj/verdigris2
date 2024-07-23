@@ -25,6 +25,8 @@ The caster touches an object, imbuing it with light. An unwilling target may mak
 ## Lightning Bolt
 Target: 2–4
 
+Use with care.
+
 A bolt of lightning is flung, dealing 3SL damage to a target. It passes directly through the victim, potentially injuring others. It might (4-in-6 chance) bounce off any hard surface, reflecting towards other victims. Determine randomly.
 ## Mend Flesh
 Target: 1–6
@@ -60,7 +62,7 @@ Early versions of this spell were said to cause accidental time travel.
 ## Wall of Fire
 Target: 4–5
 
-A useful spell, hardly subtle. A good way to identify the truly brave as they leap through the flames to attack you. It regularly ends poorly for those  folk; brave as they might be.
+A useful spell, hardly subtle. A good way to identify the truly brave as they leap through the flames to attack you. It regularly ends poorly for those folk; brave as they might be.
 
 The caster draws a line on the ground and fire erupts from it, 5ft thick, 15ft long, and 20ft high. Those attempting to move through it take d6 damage and are set alight. Lasts 15 minutes.
 ## Wall of Ice
