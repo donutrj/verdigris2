@@ -22,7 +22,10 @@ Q(Splunker)
 R(Tunnel Fighter)
 S(Night Vision)
 T(Strong-Minded)
+U(Feast)
 
+L --> M
+M --> O
 C --> B
 A --> B
 C --> D
@@ -33,13 +36,13 @@ F --> G
 H --> I
 H --> J
 K --> J
-L --> M
-M --> O
 P
 Q --> R
 Q --> S
 R --> T
 S --> T
+B --> U
+M --> U
 ```
 # Magic User Talents
 ------
@@ -60,7 +63,7 @@ K(Wizardry)
 L(Bookish)
 M(Thaumic Attunment)
 O(Magnum Opus)
-P(Speedreader)
+P(Fine Penmanship)
 Q(Tinker)
 R(Master Craftsman)
 S(Savvy)

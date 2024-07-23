@@ -1,6 +1,32 @@
-Make sure to check out [[Equipment|the equipment page]] for more non-violent options.
-# Weapons
+# Armor
+Armor is used for Withstand Saves, providing a gear bonus in relevant situations. When pushed, ones represent the armor's degradation.
 
+Importantly, armor does not help with blackpowder weapons.
+## Impeding
+Some armors are impeding, providing difficulty on stealth and movement related tests and saves. This is typically felt in Dodge Saves.
+
+| Armor            | Armor Rating | Impeding | Cost |
+| ---------------- | ------------ | -------- | ---- |
+| **Light Armor**  |              |          |      |
+| Hide             | 1            | 0        | 3    |
+| Padded Cloth     | 2            | 1        | 8    |
+| Boiled Leather   | 2            | 1        | 12   |
+| **Medium Armor** |              |          |      |
+| Chainmail        | 3            | 1        | 35   |
+| Scalemail        | 4            | 1        | 60   |
+| **Heavy Armor**  |              |          |      |
+| Banded-mail      | 5            | 2        | 50   |
+| Splint-mail      | 4            | 2        | 40   |
+| Half-plate       | 6            | 3        | 90   |
+| Full-plate       | 8            | 3        | 160  |
+
+| Shield    | Armor Rating | Cost | Properties        |
+| --------- | ------------ | ---- | ----------------- |
+| Buckler   | 0            | 5    | Requires no hands |
+| Heater    | 1            | 8    |                   |
+| Kite      | 2            | 12   |                   |
+| Legionary | 3            | 20   |                   |
+# Melee Weapons
 | Type                   | Damage | Bonus | Cost | Qualities      |
 | ---------------------- | ------ | ----- | ---- | -------------- |
 | **Light Weapons**      |        |       |      |                |
@@ -45,7 +71,41 @@ Make sure to check out [[Equipment|the equipment page]] for more non-violent opt
 | Net                    | 1      | 2     | 5    | En             |
 | Sling                  | 1      | 1     | 2    | Sh             |
 | Stone                  | 1      | -     | -    | -              |
-## Weapon Qualities
+# Missile Weapons
+| Name                 | Damage | Bonus | Cost | Qualities |
+| -------------------- | ------ | ----- | ---- | --------- |
+| **Bows & Crossbows** |        |       |      |           |
+| Crossbow, Heavy      | 3      | 2     | 80   | Re, Tw    |
+| Crossbow, Light      | 2      | 1     | 40   | Tw        |
+| Longbow              | 2      | 2     | 25   | Tw        |
+| Shortbow             | 2      | 1     | 10   | Tw        |
+| **Thrown**           |        |       |      |           |
+| Javelin              | 2      | 1     | 5    | -         |
+| Knife, Throwing      | 1      | 1     | 2    | Sh        |
+| Net                  | 1      | 2     | 5    | En        |
+| Sling                | 1      | 1     | 2    | Sh        |
+| Stone                | 1      | -     | -    | -         |
+## Blackpowder Weapons
+Blackpowder weapons are complicated & fickle. They rely on a delicate trigger mechanism which is hand-fit to each weapon.
+
+All but the very newest weapons are matchlocks, requiring a smoldering matchcord to be ready at all times. If the cord isn't lit before combat, the user must spend an action readying the match before it can be fired.
+
+Even with all the faults, the effects of powder cannot be denied.
+
+Blackpowder weapons ignore armor. 
+
+| Name        | Damage | Bonus | Cost | Qualities  |
+| ----------- | ------ | ----- | ---- | ---------- |
+| Hand-Pistol | 2      | 1     | 200  | Re         |
+| Musket      | 3      | 1     | 300  | Cr, Re, Tw |
+| Rifle       | 3      | 2     | 500  | Cr, Re, Tw |
+## Ammo
+| Ammo           | Count | Cost | Properties |
+| -------------- | ----- | ---- | ---------- |
+| Arrows         | 12    | 2    |            |
+| Crossbow Bolts | 12    | 2    |            |
+| Shot & Ball    | 12    | 8    |            |
+# Weapon Qualities
 Weapon qualities are all shorthanded in the equipment table and explained in full below.
 ### Balanced (Ba)
 Weapon provides +1 to Dodge Saves when defending from a melee attack.
@@ -69,7 +129,7 @@ Takes a combat action to reload 
 Easily concealed.
 ### Two-handed (Tw)
 Requires two hands to operate
-## Non-Inherent Qualities
+# Non-Inherent Qualities
 ### Engraved
 Engraving  is the quickest way to elevate yourself above other wealthy folk. The weapon has had art etched into it, as per the buyer’s instruction. It has no mechanical benefit, merely social and monetary. 
 + The cost of engraving is applied after other qualities.
@@ -86,40 +146,3 @@ A masterwork piece is the best a craftsman can offer. A one of a kind tool. It i
 This weapon was made quickly and as cheaply as possible. It will likely serve, for now. 
 + Decrease the weapon’s bonus by 1. If the bonus is already 1, reduce the damage by 1 instead. 
 + Reduce the cost of the weapon by 25%.
-## Ammo
-| Ammo          | Count | Cost | Properties |
-| ------------- | ----- | ---- | ---------- |
-| Arrow         | 12    | 2    |            |
-| Crossbow Bolt | 12    | 2    |            |
-| Shot & Ball   | 12    | 8    |            |
-## A Note on Blackpowder
-Blackpowder weapons are complicated & fickle. They rely on a delicate trigger mechanism which is hand-fit to each weapon.
-
-All but the very newest weapons are matchlocks, requiring a smoldering matchcord to be ready at all times. If the cord isn't lit before combat, the user must spend an action readying the match before it can be fired.
-
-Even with all the faults, the effects of powder cannot be denied. Blackpowder weapons ignore armor. 
-# Armor
-
-| Type             | Armor Rating | Impeding | Cost |
-| ---------------- | ------------ | -------- | ---- |
-| **Light Armor**  |              |          |      |
-| Hide             | 1            | 0        | 3    |
-| Padded Cloth     | 2            | 1        | 8    |
-| Boiled Leather   | 2            | 1        | 12   |
-| **Medium Armor** |              |          |      |
-| Chainmail        | 3            | 1        | 35   |
-| Scalemail        | 4            | 1        | 60   |
-| **Heavy Armor**  |              |          |      |
-| Banded-mail      | 5            | 2        | 50   |
-| Splint-mail      | 4            | 2        | 40   |
-| Half-plate       | 6            | 3        | 90   |
-| Full-plate       | 8            | 3        | 160  |
-
-## Shields
-
-| Type      | Armor Rating | Cost | Properties        |
-| --------- | ------------ | ---- | ----------------- |
-| Buckler   | 0            | 5    | Requires no hands |
-| Heater    | 1            | 8    |                   |
-| Kite      | 2            | 12   |                   |
-| Legionary | 3            | 20   |                   |

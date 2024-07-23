@@ -104,7 +104,7 @@
 		{"id":"9b9e077ab303ca49","type":"text","text":"[[Talents Master List#Impassioned Zeal|Impassioned Zeal]]","x":-1907,"y":-340,"width":250,"height":60},
 		{"id":"599c7f12fada57b1","type":"text","text":"[[Talents Master List#Thaumic Attunment|Thaumic Attunment]]","x":-787,"y":-340,"width":250,"height":60},
 		{"id":"79930b6a50b616b7","type":"text","text":"[[Talents Master List#Bookish|Bookish]]","x":-1057,"y":-340,"width":250,"height":60},
-		{"id":"5cd2d9ce3cc0cd11","type":"text","text":"[[Talents Master List#Speedreader|Speedreader]]","x":-1057,"y":-190,"width":250,"height":60},
+		{"id":"5cd2d9ce3cc0cd11","type":"text","text":"[[Talents Master List#Fine Penmanship|Fine Penmanship]]","x":-1057,"y":-190,"width":250,"height":60},
 		{"id":"e972503550ef1f9b","type":"text","text":"[[Talents Master List#Second Sight|Second Sight]]","x":-1342,"y":-340,"width":250,"height":60},
 		{"id":"85e2a6fd1ce80aa0","type":"text","text":"[[Talents Master List#Seasoned Traveler|Seasoned Traveler]]","x":-2870,"y":-340,"width":250,"height":60},
 		{"id":"cd54b08d6f9da164","type":"text","text":"[[Talents Master List#Trapper|Trapper]]","x":-4260,"y":-340,"width":250,"height":60},
@@ -115,13 +115,13 @@
 		{"id":"58f2cfd1ac035017","type":"text","text":"[[Talents Master List#Master Craftsman|Master Craftsman]]","x":-500,"y":-527,"width":250,"height":60},
 		{"id":"9107dbdb2534ec22","type":"text","text":"[[Talents Master List#Savvy|Savvy]]","x":-210,"y":-527,"width":250,"height":60},
 		{"id":"402a5077b26e26eb","type":"text","text":"[[Talents Master List#Alchemy|Alchemy]]","x":70,"y":-527,"width":250,"height":60},
-		{"id":"4b21f5372800bec6","type":"text","text":"[[Talents Master List#Savant(Lore)*|Savant]]","x":-210,"y":-340,"width":250,"height":60},
+		{"id":"4b21f5372800bec6","type":"text","text":"[[Talents Master List#Savant|Savant]]","x":-210,"y":-340,"width":250,"height":60},
 		{"id":"4b39a9e4fe0b7b21","type":"text","text":"[[Talents Master List#Batch Processing|Batch Processing]]","x":70,"y":-340,"width":250,"height":60},
 		{"id":"4e4be242b65f4d82","type":"text","text":"[[Talents Master List#Tinker|Tinker]]","x":-210,"y":-707,"width":250,"height":60},
 		{"id":"68eaa279590186a2","type":"text","text":"[[Talents Master List#Berserk Charge|Berserk Charge]]","x":980,"y":117,"width":250,"height":60},
 		{"id":"060b7ef6363a6c18","type":"text","text":"[[Talents Master List#Strong-minded|Strong-Minded]]","x":-2592,"y":-340,"width":250,"height":60},
 		{"id":"7f9a393f66a12d6a","type":"text","text":"[[Talents Master List#Tunnel Fighter|Tunnel Fighter]]","x":-2592,"y":-527,"width":250,"height":60},
-		{"id":"260db251d61e5958","x":-787,"y":-190,"width":250,"height":60,"type":"text","text":"[[Talents Master List#War Wizard|War Wizard]]"}
+		{"id":"260db251d61e5958","type":"text","text":"[[Talents Master List#War Wizard|War Wizard]]","x":-787,"y":-190,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"44dc092ec3b7b7ae","fromNode":"51cbafbb06683963","fromSide":"bottom","toNode":"7f9a393f66a12d6a","toSide":"top"},

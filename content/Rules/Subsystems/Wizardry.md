@@ -21,6 +21,8 @@ Every time a wizard casts a spell, they suffer one drain. This is a cumulative p
 This penalty builds with each cast, not channel, tests. Although once present, it affects both tests. 
 
 Drain does not affect saves.
+# Magical Tomes
+Magical tomes are the books a wizard cast from, reading pages aloud and making arcane shapes with a wand or staff. One spell is recorded per tome, and each book takes an inventory slot. Should a tome be lost, a wizard can prepare a new one with a week's work. 
 # Schools of Magic
 Magic is divided into ‘schools’. This is not necessarily the result of base differences in magic but the product of different focuses of study resulting in different paths of understanding.
 ## Conjury

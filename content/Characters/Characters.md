@@ -36,8 +36,8 @@ Then roll another 8d6, assigning as follows:
 
 | Roll | Result                             |
 | ---- | ---------------------------------- |
-| 1    | Panic                              |
-| 2    | Dodge                              |
+| 1    | Dodge                              |
+| 2    | Panic                              |
 | 3    | Warding                            |
 | 4    | Withstand                          |
 | 5    | Hit Points                         |
@@ -217,12 +217,12 @@ Now that you have a good idea of the background and capabilities of your charact
 Talents are the primary way players will spend the experience their earn during the session. These are situational bonuses that dramatically impact the way the game is played. 
 ## Character Creation
 Select two talents from the [[Talents Master List|talents page]]. Make sure they are valid, as many talents require you to take a pre-requisite talent first. 
-# Relationships
+# Dynamic
 When making a character, work with the other players at find a dynamic between your character and another.
 
 *I need to make this less horny bait as per comments from Anne*
 
-| Sample Relationships   |
+| Sample Dynamics        |
 | ---------------------- |
 | Allies                 |
 | Parent/Child           |

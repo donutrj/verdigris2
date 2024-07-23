@@ -98,9 +98,9 @@ Max: 1
 
 You know how to get the most out of your animals. As long as you’re using a whip, when an animal you control is running, it gains the bonuses as though it has the Flee Talent.
 ## Criminal
-Max: 1
+Max: 3
 
-You are an active criminal, certainly wanted by some authority or other. When in populated areas you can spend your downtime committing small crimes for income. #edit  Should add a ringleader talent to follow up too. 
+You are an active criminal, certainly wanted by some authority or other. When in populated areas you can spend your downtime committing small crimes for income. Roll d6 equal to your level in this talent and gain that much silver. 
 ## Deadeye Shot
 Max: 1
 
@@ -162,6 +162,10 @@ Max: Agility
 You are used to treating wounds in the heat of action. While in combat you may make an intelligence test adding your level in this talent to the test. On a success the subject stops bleeding and regains 1d3+SL wounds. 
 
 Pushed tests will result in infection on a failed endurance test.
+## Fine Penmanship
+Max: 1
+
+You are an adept with quill and ink. Your fine scrawling allow you to fit two spells into one tome when you're preparing materials for future casting.
 ## Fisherman
 Max: Withstand
 
@@ -364,9 +368,9 @@ Max: 1
 
 When attacking with a melee weapon, you may deal extra damage equal to your favor, thus reducing your favor by 1.
 ## Ringleader
-Max: ???
+Max: 1
 
-Something something passive income. 
+You operate a small criminal enterprise. Work with the GM to pin down what that might be and the risks involved. Sustained success can lead to a passive income and some connections among the underbelly.
 ## Rover
 Max: 1
 
@@ -375,13 +379,12 @@ You are at home roaming the wild places. When using stealth in a rural environme
 Max: 1
 
 You are at home in the saddle in even the most difficult of circumstances, and know how to get the best out of your mount during combat. You can ride your horse through difficult terrain without any tests and fight on horseback in the same conditions.
-## Savant(Lore)*
+## Savant
 Max: Intelligence
 
-You are exceptionally learned, and have a significant degree of specialized knowledge in a single field of study. You automatically know a number of pieces of information equal to your Savant level about a relevant issue without having to make a test. Testing, as always, will provide yet more information as normal as determined by the GM. 
+You are exceptionally learned, and have a significant degree of specialized knowledge in a single field of study. You automatically know a number of pieces of information equal to your Savant level about a relevant issue without having to make a test.
 
-The specific pieces of knowledge can remain ambiguous until a moment when you pull it out in session.
-#edit how does this fit with the new skill system?
+Testing, as always, will provide yet more information as normal as determined by the GM. 
 ## Savvy
 Max: 1
 
@@ -428,12 +431,6 @@ Max: 1
 Distance is of no import to your shooting skills, and you are just as adept at picking off far away targets as those nearby. You suffer no penalties for shooting at extreme ranges.
 
 #edit kinda redundant with sharpshooter?
-## Speedreader
-Max: 1
-
-You read books at a voracious pace. You gain a +2 bonus when it comes to research and reading. If the speed at which you read is important during combat, a successful language test lets you read and fully comprehend a number of pages per round equal to the test’s SL.
-
-If you memorize spells from a written source, you may memorize them at twice the normal speed. #edit change with [[Wizardry]] rules also add war wizard to this!
 ## Spiderclimb
 Max: Strength
 
@@ -478,6 +475,10 @@ You have strong legs able to carry you great distances when you jump. You do not
 Max: Cool
 
 You know how to use your fear in combat, leveraging stress to dish out greater damage. Deal an extra wound for each stress you have up to your level in Strong-minded.
+## Styles
+Max: 2
+
+When you take this talent, learn a new style of fighting. Pick from [[Styles|this list]] and gain the universal skills as well.
 ## Super Numerate
 Max: Intelligence
 
@@ -560,17 +561,17 @@ Max: None
 
 You are used to anticipating the needs of others, and yourself. A number of times per session equal to your level of well prepared, you may pull the trapping required for the current situation from your pack as long as it could’ve been feasibly bought recently, isn’t large enough to take an inventory spot, and doesn’t stretch credibility too far. This could be anything from a flask of spirits to fortify a wounded comrade to a penny-whistle needed by a passing entertainer. Whenever you do this, you must deduct the cost at a 50% premium for the prepared item from your purse, representing the coin you spent earlier. 
 
-## Witch
+## Witchcraft
 Max: 2
 
-You are a self-taught spellcaster who has figured out how to cast magic through trial and error. When taking this talent, randomly select 8 spells and choose any 2 to add to your spellbook.
+You are a self-taught spellcaster who has figured out how to cast magic through trial and error. When taking this talent, select any two spells from any of the magical schools.
 
-You may now add casting and channeling to your skill list and increase them as such.
+The first time you take this talent, add casting and channeling to your skill list and increase them by 1.
 ## Wizardry
 Max: 1
 
 You have been educated in the classics of spellcasting.
 
-Gain two new skills if you don't have them already; Channeling and Casting. Learn more about casting spells in the [[Wizardry|wizardry]] page.
+Gain two new skills if you don't have them already; Channeling and Casting, increasing them by 1. Learn more about casting spells in the [[Wizardry|wizardry]] page.
 
 When you take this talent, select a school of magic from [[Wizardry#Schools of Magic|these options]]. You may now attempt to cast spells from that list. 

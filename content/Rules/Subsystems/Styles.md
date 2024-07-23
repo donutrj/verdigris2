@@ -36,9 +36,9 @@ jab jab jab
 
 ## Witchhunter
 + **Technique: Fear & Surprise -** If you win initiative on the first round of combat you can backstab your target for +4 to the attack bonus and double damage, providing you have enough movement to run up behind them.
-- **Stance: Ruthless Efficiency -** You deal +2 damage to anyone who dabbles with magic.
-- **Stance: Fanatical Devotion -** If you are charmed or otherwise mentally compelled the one who charmed you takes d3 damage every round the effect remains active.
-- **Stance: Scarlet Robed -** While garbed in official uniform you add your armor to saves vs. magics.
++ **Stance: Ruthless Efficiency -** You deal +2 damage to anyone who dabbles with magic.
++ **Stance: Fanatical Devotion -** If you are charmed or otherwise mentally compelled the one who charmed you takes d3 damage every round the effect remains active.
++ **Stance: Scarlet Robed -** While garbed in official uniform you add your armor to saves vs. magics.
 ## Discrete
 + **Technique: Cloak & Dagger -** When an opponent misses their attack, you may smoothly wipe their blade clean of any poison on your cloak and stick them with your dagger for its damage value.
 + **Technique: Red-handed -** When attacking an opponent, you may attempt to strike their hand. If hit, they take 1 damage and drop their held weapon. 

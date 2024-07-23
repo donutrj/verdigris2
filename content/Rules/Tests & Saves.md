@@ -25,7 +25,4 @@ Saves are made whenever something is happening to a character. Where a test is u
 ## How to make a Save
 Making a save is largely the same as making a test, but there are a few exceptions. Namely, saves do not benefit from stress. Each save has different consequences when a pushed save is unsuccessful.
 ### Pushing Saves
-+ Panic: roll 3d6 on the [[Stress & Panic#Panic|panic table]] and keep the two highest
-+ Dodge: fall [[Conditions & Effects#Falling Prone|prone]].
-+ Warding: Become [[Conditions & Effects#Scattered|scattered]]
-+ Withstand: Take 1d6 damage & reduce armor on ones (gear dice)
+Pushing a save and failing results in one [[Conditions & Effects#Exhaustion|exhaustion]].

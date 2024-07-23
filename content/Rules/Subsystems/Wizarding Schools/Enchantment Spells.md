@@ -19,7 +19,7 @@ Target: 1–3
 
 Magic contorted to the rattling sounds of otherworldly chatter.
 
-Up to SL creatures that hear the rattle become [[Conditions & Effects#Scattered|scattered]] on a failed Warding Save. Confused targets are able to defend themselves only 4/6 of the time. Lasts 5 minutes.
+Up to SL creatures that hear the rattle become [[Conditions & Effects#Scattered|scattered]] on a failed Warding Save. Confused targets are able to defend themselves only 4/6 of the time. Lasts 5 minutes. need to edit this one #edit 
 ## Control Water
 Target: 10–12
 

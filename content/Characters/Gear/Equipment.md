@@ -1,6 +1,56 @@
-# Equipment
+# Inventory
+A character’s inventory is split between three spaces: hands, belt, and pack. Each space uses slots to roughly denote the amount they can hold. One slot can hold roughly a dozen eggs, but is more an idea than a hard rule.
 
-| Goods                  | Cost | Properties                                                    |
+| Items   | Size                                                                                                                              |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Ammo    | Ammo can be stored in bundles of six                                                                                              |
+| Armor   | A number of slots equal to it's impeding, while not less than one                                                                 |
+| Books   | Books take up a slot each                                                                                                         |
+| Clothes | A day's clothes equals one slot, more elaborate attire will require more space                                                    |
+| Coinage | Coins can be grouped into sacks of 100 per slot. Loose change and other coin sized objects can be grouped together into one slot. |
+| Potions | One slot                                                                                                                          |
+| Rations | Three per slot                                                                                                                    |
+| Shields | Cannot be stored on belt, one slot                                                                                                |
+| Weapons | Two-handed weapons take up two slots, otherwise one slot                                                                          |
+## Hands
+Hands are what characters actively hold. There are two slots, each for one hand. If weapons are held here, they are considered drawn, and people will be hostile.
+## Belt
+A character’s belt is where you’d stash your weapon, ammo, and other rapidly accessible items.
+## Pack
+A character’s pack is where they keep bulk items that don’t need to be accessed in the heat of the moment. A pack is equal to character's [[Characters#Attributes|strength]]. 
+# Selling Goods
+When selling goods to merchants, players typically receive half the listed value. At GM discretion,  players may make a single Charisma Test to haggle. If successful, the merchant will pay an additional ten percent per SL.
+## Coinage
+Merchants operate on the silver system, where most currency is in silver. Most merchants will also happily accept gold, at an exchange rate of 60 silver to a gold.
+# Animals
+Animals require care, but under most circumstances are self-sufficient. In harsh climates, characters might need to supply food or water.
+
+| Animals         | Cost | Details                                                                                                                                         |
+| --------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chicken         | 8    |                                                                                                                                                 |
+| Cow             | 200  |                                                                                                                                                 |
+| Dog, Bloodhound | 120  | +1 to Panic Saves. +5 stress on death.                                                                                                          |
+| Dog, Exotic     | 800  | +1 to Panic Saves. +5 stress on death. Requires daily attention or risks death.                                                                 |
+| Dog, Hunting    | 85   | +1 to Panic Saves. +5 stress on death. +2 bonus to relevant tests.                                                                              |
+| Dog, Untrained  | 25   | +1 to Panic Saves. +5 stress on death. -2 to stealth related tests and saves.                                                                   |
+| Goat            | 85   |                                                                                                                                                 |
+| Horse, Courser  | 350  | A horse bred for travel. Great for riding distances while carrying an armored soldier.                                                          |
+| Horse, Destrier | 600  | A horse bred for bursts of speed. A warhorse trained to fight with hoof and bite.                                                               |
+| Horse, Palfrey  | 200  | A smaller horse, commonly used by merchants or travelers. Less able to handle great weights than other breeds. Leans towards kind temperaments. |
+| Horse, Plow     | 280  | A sturdy breed used for hauling and pulling cart/plow.                                                                                          |
+| Mule            | 140  | Travels at 3/4 pace of a horse.                                                                                                                 |
+# Food and Lodging
+
+| Name                  | Cost | Details                           |
+| --------------------- | ---- | --------------------------------- |
+| Animal Feed           | 10   | Two per slot                      |
+| Night at inn, normal  | 5    | Includes a meal, drinks are extra |
+| Night at inn, opulent | 10   | Includes a meal, drinks are extra |
+| Rations, enlisted     | 2    | stale bread & dry cheese          |
+| Rations, officer      | 5    | dried meat & bread                |
+# Miscellaneous
+
+| Names                  | Cost | Details                                                       |
 | ---------------------- | ---- | ------------------------------------------------------------- |
 | Bandages               | 10   | +1 gear in medical situations                                 |
 | Beartrap               | 20   | Deals 3 damage, reduced by armor                              |
@@ -43,12 +93,9 @@
 | Metal file             | 10   |                                                               |
 | Mirror, Large Metal    | 10   |                                                               |
 | Mirror, Small Metal    | 5    |                                                               |
-| Net                    | 10   |                                                               |
 | Poison, black          | 20   | 1d3 damage on failed withstand save. Can be spread on weapons |
 | Pole                   | 5    | 10ft                                                          |
 | Quill & Ink            | 3    | Staining                                                      |
-| Ration, officer        | 5    | Jerky                                                         |
-| Ration, enlisted       | 2    | Stale bread & dry cheese                                      |
 | Rope, hemp             | 5    | 30ft                                                          |
 | Rope, silken           | 70   | 30ft                                                          |
 | Salt                   | 4    |                                                               |
@@ -57,22 +104,6 @@
 | Shovel                 | 5    |                                                               |
 | Simple Instrument      | 8    |                                                               |
 | Skiing equipment       | 15   |                                                               |
-| Snare                  | 5    | 2+ SL Move Test or caught.                                    |
+| Snare                  | 5    | 2+ SL Dodge Save or caught.                                   |
 | Sleeping bag           | 2    |                                                               |
 | Tent                   | 12   |                                                               |
-
-  
-# Animals
-
-| Animals         | Cost | Details                                                                                                                                        |
-| --------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chicken         | 8    |                                                                                                                                                |
-| Cow             | 200  |                                                                                                                                                |
-| Dog, Bloodhound | 120  |                                                                                                                                                |
-| Dog, Exotic     | 600  |                                                                                                                                                |
-| Dog, Hunting    | 85   |                                                                                                                                                |
-| Dog, Untrained  | 25   |                                                                                                                                                |
-| Goat            | 85   |                                                                                                                                                |
-| Horse, Courser  | 350  | A horse bred for travel. Great for riding distances while carrying an armored soldier.                                                         |
-| Horse, Destrier | 600  | A horse bred for bursts of speed. A warhorse trained to fight with hoof and bite.                                                              |
-| Horse, Palfrey  | 200  | A smaller horse, commonly used by merchants or travelers. Less able to handle great weights than other breeds. Leans towards kind temperaments |

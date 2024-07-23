@@ -2,7 +2,7 @@ A god's favor is a fickle thing. When you take the devotee talent you pledge you
 
 Each god manifests their powers differently. When deciding to cast a blessing there are two variables to keep in mind: 
 
-+ **The blessing's intensity:** How powerful a blessing are you trying to manafest? Would this take any substantial effort from your master? How large a target are you attempting to affect?
++ **The blessing's intensity:** How powerful a blessing are you trying to manifest? Would this take any substantial effort from your master? How large a target are you attempting to affect?
 + **The blessing's domain:** Is your blessing aligned with the material your god controls? Is your blessing working towards the goals of your master?
 
 A blessing which is minor in effect and in keeping with the goals and domain of your god should be relatively effortless and simple to complete.
