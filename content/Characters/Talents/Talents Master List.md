@@ -4,7 +4,7 @@ title: Talents Master List
 # Talents
 Here is a master list of all the talents, if you want to see how they all fit together, check out the [[Talent Trees|talent trees]].
 ## Accurate Shot
-Max: Advanced Training
+Max: Agility
 
 You're a fantastic shot, capable of inflicting massive damage on your opponents. Deal an extra wound per level in this talent with ranged weapons.
 ## Alchemy

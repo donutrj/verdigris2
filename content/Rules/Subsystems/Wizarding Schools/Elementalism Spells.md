@@ -54,7 +54,9 @@ Target: 3+
 
 It was once that kings might have their messengers teleport. Such lavishness has fallen from favor as the colleges squeeze ever more for their services. Birds are much less temperamental than wizards. 
 
-A number of targets can be brought equal to the caster’s SL. The caster must be among the travelers. 
+The wizard must hold a piece of a location they remember visiting. When intoning the spell, they may link hands with up to SL creatures and bring them to the place where the item was from.
+
+Early versions of this spell were said to cause accidental time travel.
 ## Wall of Fire
 Target: 4–5
 
