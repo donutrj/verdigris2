@@ -10,7 +10,7 @@ Channel allows magic to accumulate over multiple rounds of combat, where you mak
 
 When a caster feels they have gathered enough power via Channel, they make a Cast Test, and if it has at least 1 SL, they add the sum of their Channel tests to the Cast SL and resolve the spell. 
 
-Breaking a caster’s concentration (typically when struck with a weapon) while Channeling results in an immediate roll on the Magical Catastrophe table.
+Breaking a caster’s concentration (typically when struck with a weapon) while Channeling results in an immediate roll on the Magical Catastrophe table if the caster fails a warding save.
 ## Resolving Spells
 Spells are fickle little shits. Unless your SL falls within the range of the spell, roll on the magical mishap table. If the Cast Test SL is greater than the spell’s target, it still activates, you just need to also roll on the magical mishap table. 
 

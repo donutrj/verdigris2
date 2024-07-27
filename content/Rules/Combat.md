@@ -52,6 +52,4 @@ If the defender is wearing armor, they roll a pool of dice equal to the armor’
 # Inventory Management
 A character can access items on their belt as a free action, whereas getting an item from their pack is an action.
 
-It is also important to determine if a character is wearing their heavy pack as they fight. A pack imposes two difficulty on all tests and saves when worn.
-
 Read more about inventory [[Tests & Saves#Inventory|here]].

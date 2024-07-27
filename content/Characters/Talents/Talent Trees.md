@@ -23,6 +23,7 @@ R(Tunnel Fighter)
 S(Night Vision)
 T(Strong-Minded)
 U(Feast)
+AH(Accurate Shot)
 
 L --> M
 M --> O
@@ -43,6 +44,7 @@ R --> T
 S --> T
 B --> U
 M --> U
+B --> AH
 ```
 # Magic User Talents
 ------
@@ -129,7 +131,7 @@ X(Cat-Tongued)
 Y(Embezzle)
 Z(Schemer)
 AA(Secret Identity)
-AB(Supportive)
+AB(Sycophant)
 
 E
 G
@@ -203,7 +205,6 @@ AD(Nimble Fingers)
 AE(Practiced Gunner)
 AF(Surgery)
 AG(Deadeye Shot)
-AH(Accurate Shot)
 AI(Sure Shot)
 AJ(Stone Soup)
 AK(Hardy)
@@ -224,6 +225,7 @@ AY(Very Strong)
 AZ(Hatred)
 BA(Iron Will)
 BB(Very Resilient)
+BC(Ironclad)
 
 A --> B
 A --> C
@@ -257,7 +259,6 @@ O --> AA
 O --> AB
 Y --> AC
 AC --> AG
-AC --> AH
 AC --> AI
 Z --> AD
 AA --> AE
@@ -286,4 +287,6 @@ P --> AW
 AW --> BA
 AW --> BB
 AX --> BA
+H --> AL
+I --> BC
 ```

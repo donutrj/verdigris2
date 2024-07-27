@@ -18,7 +18,6 @@ The base character has the following stats:
 + One for all Attributes and Saves
 + Three Hit Points
 + Two Wounds
-
 ### Attributes
 Begin building a character by rolling 8d6 and increasing the stat by one corresponding to the table below:
 

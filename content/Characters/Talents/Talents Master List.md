@@ -4,9 +4,9 @@ title: Talents Master List
 # Talents
 Here is a master list of all the talents, if you want to see how they all fit together, check out the [[Talent Trees|talent trees]].
 ## Accurate Shot
-Max: Agility
+Max: 2
 
-You're a fantastic shot, capable of inflicting massive damage on your opponents. Deal an extra wound per level in this talent with ranged weapons.
+You're a fantastic shot, capable of inflicting massive damage on your opponents. Deal extra damage per level in this talent with ranged weapons.
 ## Alchemy
 Max: 3
 
@@ -117,7 +117,6 @@ Max: Agility
 You have been taught all the dirty tricks of unarmed combat. You may choose to cause an extra +1 wound for each level in Dirty Fighting with any successful Brawl hit.
 
 Note using this Talent will be seen as cheating in any formal bout and is generally considered underhanded.
-#edit this might be better served as a style/technique
 ## Disease Resistant
 Max: Withstand
 
@@ -235,6 +234,10 @@ Max: 1
 When things get tough you’ve always been able to dig deep and prove to others that you’re made of tougher stuff.
 
 You can store an additional inspiration per player character. You can opt to use one or two inspiration in relevant tests.
+## Ironclad
+Max: 2
+
+You wear heavy armor like a second skin. Reduce an armor's impeding by your level in this talent.
 ## Iron Jaw
 Max: 1
 
@@ -483,13 +486,8 @@ When you take this talent, learn a new style of fighting. Pick from [[Styles|thi
 Max: Intelligence
 
 You have a gift for calculation and can work out the solution to most mathematical problems with ease. Gain a +1 bonus per level in this talent to tests related to calculating and estimated sums
-
-## Supportive
-Max: Charisma
-
-You know what to say and when to make the most impact upon your superiors. When you successfully use a social test to influence those with higher status tier, you can choose to either succeed by an additional SL per level in this talent, or gain a +1 bonus to all future tests against the same superior.
 ## Sure Shot
-Max: Spot
+Max: Intelligence
 
 You know how to find the weak spots in a target’s armor. When you hit a target with a ranged weapon, you may ignore armor value up to your level in Sure Shot.
 ## Surgery
@@ -504,19 +502,22 @@ Max: 3
 You've learned how to swim, and aren't half bad at it either. In calm conditions do not make tests for swimming. When things might be storming or if you're wearing armor, make a test with bonus equal to your level in this talent. 
 
 Additionally add your level in this talent to all tests related to holding your breadth.
+## Sycophant
+Max: Charisma
+
+You know what to say and when to make the most impact upon your superiors. When you successfully use a social test to influence those with higher status tier, you can choose to either succeed by an additional SL per level in this talent, or gain a +1 bonus to all future tests against the same superior.
 ## Tenacious
 Max: 1
 
 You’ve always been able to push yourself just that little bit farther. When affected by a condition, reduce your attribute to 2 instead of 1.
-## Thaumic Attunment
+## Thaumic Attunement
 Max: 2
 
-Your experience, talent, or training lets you more safely manipulate the magic's peculiarities. When rolling magic mishaps and catastrophies, roll additional times equal to your level in this talent and take the lowest result.
+Your experience, talent, or training lets you more safely manipulate the magic's peculiarities. When rolling magic mishaps and catastrophes, roll additional times equal to your level in this talent and take the lowest result.
 ## Tinker
 Max: Intelligence
 
 You’ve always enjoyed seeing how things are assembled and through your habits of taking things apart and putting them back together you are able to repair almost anything. You gain +1 bonuses to  repair non-magical items per level in Tinker.
-
 ## Trapper
 Max: Insight
 
@@ -526,7 +527,7 @@ Max: 1
 
 You have learned to make the most out of fighting in enclosed spaces. You ignore penalties to Melee caused by confined spaces such as tunnels, the frontline, small fighting pits, and similar, and can dodge without penalty, even if it would normally be disallowed due to lack of space. 
 
-Weapons with the long trait still cannot be used, can’t beat physics unless you’re a wizard.
+Weapons with the long trait still cannot be used. You can’t beat physics unless you’re a wizard.
 ## Unshakable
 Max: 1
 
@@ -540,9 +541,9 @@ Max: 1
 
 You gain a permanent +1 to your Strength.
 ## War Wizard
-Max: 1
+Max: 2
 
-You are adept at casting in the thick of things. You may now cast and channel while in a melee, additionally getting hit while channeling results in a Warding Save to avoid the otherwise magical catastrophe.
+You are adept at casting in the thick of things. When hit while channeling, gain +2 to the warding test per level in this talent to avoid rolling a magical catastrophe.
 ## Wealthy
 Max: None
 
