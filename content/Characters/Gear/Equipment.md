@@ -17,7 +17,7 @@ Hands are what characters actively hold. There are two slots, each for one hand.
 ## Belt
 A character’s belt is where you’d stash your weapon, ammo, and other rapidly accessible items.
 ## Pack
-A character’s pack is where they keep bulk items that don’t need to be accessed in the heat of the moment. A pack is equal to character's [[Characters#Attributes|strength]] + 4.
+A character’s pack is where they keep bulk items that don’t need to be accessed in the heat of the moment. A pack is equal to character's [[Stats#Attributes|strength]] + 4.
 # Selling Goods
 When selling goods to merchants, players typically receive half the listed value. At GM discretion,  players may make a single Charisma Test to haggle. If successful, the merchant will pay an additional ten percent per SL.
 ## Coinage

@@ -9,4 +9,4 @@ Verdigris is a classless system built on the Mutant: Year Zero Engine. Players m
 
 Verdigris is also heavily inspired by other games; originally called Symhammer - as a amalgam of Symbaroum and Warhammer Fantasy. Inspiration is also taken from Knave, WutC, and many, many blog posts.
 # Getting Started
-Verdigris is intended to run in a late medieval fantasy setting, you're welcome to read more about it [[Setting|here]]. Alternatively as a player feel free to get started by [[Characters|generating a character]]. 
+Verdigris is intended to run in a late medieval fantasy setting, you're welcome to read more about it [[Setting|here]]. Alternatively as a player feel free to get started by [[Stats|generating a character]]. 

@@ -36,6 +36,6 @@ There isn't a test required to make camp, bar some environmental challenges or s
 ## Marching
 Marching is how the group will spend much of their travels. A comfortable pace on decent ground does not require any kind of test. Pace, animas, stealth, duration, and difficult terrain / weather will all add some challenge to traveling. 
 ## Resting
-This is the typical nighttime action, where the party sleeps off the day's struggle. This allows the players to roll their 1d6 as per [[Recovery|recovery]]. It is typical that the party will want to keep watch, and should they, (there are usually two shifts in a night) they would roll 1d3 instead. 
+This is the typical nighttime action, where the party sleeps off the day's struggle. This allows the players to roll their 1d6 as per [[Combat#Recovery|recovery]]. It is typical that the party will want to keep watch, and should they, (there are usually two shifts in a night) they would roll 1d3 instead. 
 
 A character cannot be the recipient of first aid and be the lookout simultaneously. 

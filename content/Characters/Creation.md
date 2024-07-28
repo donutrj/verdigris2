@@ -1,24 +1,11 @@
-# The Base Stats
-## Attributes
-[[Tests & Saves#Tests|Attributes]] are used for tests. Often combined with skills, backgrounds, stress, and gear for bonuses.
-+ **Strength**: the physical might of a character. It is used to test the force of a punch, the climbing of a rope, or when drawing the bow.
-+ **Agility**: the speed and dexterity of a character. It is used to run away, pick locks, shoot crossbows and blackpowder arms.
-+ **Intelligence**: the intellect of a character. It is used when casting spells, spotting tracks, and navigation.
-+ **Charisma**: the social charm of a character. It is used in all kinds of social settings, uncovering lies, and pleading with gods for their blessings.
-## Saves
-[[Tests & Saves#Saves|Saves]] are used when something happens to a character. Whether when dodging attacks, remaining functional after a night's march, or keeping their cool.
-+ **Panic**: made whenever a player rolls a 1 on their stress dice. Failure typically results on a roll on the [[Tests & Saves#Panic|panic table]].
-+ **Dodge**: made when dodging an attack or avoiding danger. Failure typically results in a withstand save before damage is calculated. 
-+ **Warding**: made to resist magical effects. Failure means the whims of gods and wizards alike will affect you.
-+ **Withstand**: made to endure hardship. These are often made to avoid harm from blows with gear bonuses from armor, or might be made without when slogging through the swamps for the forty-eighth hour.
-## Wounds & Hit Points
-When characters take damage, they reduce their hit points (HP) by the corresponding amount. When damage is severe or their HP is reduced to zero they take a wound. [[Combat#Damage|Learn more in the combat section]]. 
-## Character Creation 
+# Base Stats
 The base character has the following stats:
 + One for all Attributes and Saves
 + Three Hit Points
 + Two Wounds
-### Attributes
+
+Learn more about the stats [[Stats|here]].
+
 Begin building a character by rolling 8d6 and increasing the stat by one corresponding to the table below:
 
 | Roll | Result                             |
@@ -30,7 +17,6 @@ Begin building a character by rolling 8d6 and increasing the stat by one corresp
 | 5    | Hit Points                         |
 | 6    | Roll again & increase by 2 instead |
 
-### Saves
 Then roll another 8d6, assigning as follows:
 
 | Roll | Result                             |
@@ -41,15 +27,9 @@ Then roll another 8d6, assigning as follows:
 | 4    | Withstand                          |
 | 5    | Hit Points                         |
 | 6    | Roll again & increase by 2 instead |
-
 *Rolling sixes multiple times does not mean the result stacks*
-# Backgrounds
-Backgrounds are what your character was before they became an adventurer. These come into play when a character makes a test in which their past experience would convey a bonus. 
-
-***e.g.** A character with the background wheat farmer is trying to determine if it'll rain before they reach town. That player would get a bonus for their background considering predicting the weather is important to a farmer.*
-
-## Character Creation
-Roll twice on the following table and add the two backgrounds to your character sheet along with the corresponding gear to your inventory:
+# Background
+Roll twice on the following table and add their equipment to your character.
 
 | 1d100 | Background   | Equipment                           |
 | ----- | ------------ | ----------------------------------- |
@@ -153,11 +133,8 @@ Roll twice on the following table and add the two backgrounds to your character 
 | 98    | trapper      | bear trap, 300’ twine, bear pelt    |
 | 99    | watchman     | lantern, trumpet, spear             |
 | 100   | woodcutter   | axe, firewood, 50’ rope             |
-
 # Characteristics
 Characteristics are traits rolled or picked when making a character. These have no mechanical function but are intended as aids when roleplaying to help get you into a character.
-## Character Creation
-Now that you have a good idea of the background and capabilities of your character, either roll or choose an entry from each of the following tables to better flesh out your character.
 
 | 1d10 | Physique   | Skin       |
 | ---- | ---------- | ---------- |
@@ -172,7 +149,6 @@ Now that you have a good idea of the background and capabilities of your charact
 | 9    | Stout      | Scarred    |
 | 10   | Towering   | Weathered  |
 
-
 | 1d10 | Hair      | Face        |
 | ---- | --------- | ----------- |
 | 1    | Shaved    | Bony        |
@@ -185,7 +161,6 @@ Now that you have a good idea of the background and capabilities of your charact
 | 8    | Oily      | Sharp       |
 | 9    | Wavy      | Square      |
 | 10   | Wispy     | Sunken      |
-
 
 | 1d10 | Speech   | Virtue      |
 | ---- | -------- | ----------- |
@@ -213,9 +188,7 @@ Now that you have a good idea of the background and capabilities of your charact
 | 9    | Vain       |
 | 10   | Vengeful   |
 # Talents
-Talents are the primary way players will spend the experience their earn during the session. These are situational bonuses that dramatically impact the way the game is played. 
-## Character Creation
-Select two talents from the [[Talents Master List|talents page]]. Make sure they are valid, as many talents require you to take a pre-requisite talent first. 
+Select any two talents from the [[Talent Trees|talent trees]]. They may be starting talents on the left-hand side or two in a row, as progression dictates. 
 # Dynamic
 When making a character, work with the other players at find a dynamic between your character and another.
 
