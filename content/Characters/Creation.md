@@ -136,18 +136,18 @@ Roll twice on the following table and add their equipment to your character.
 # Characteristics
 Characteristics are traits rolled or picked when making a character. These have no mechanical function but are intended as aids when roleplaying to help get you into a character.
 
-| 1d10 | Physique   | Skin       |
-| ---- | ---------- | ---------- |
-| 1    | Athletic   | Birthmark  |
-| 2    | Brawny     | Drawn      |
-| 3    | Diminutive | Elongated  |
-| 4    | Lanky      | Pockmarked |
-| 5    | Rugged     | Rosy       |
-| 6    | Slim       | Rough      |
-| 7    | Short      | Smooth     |
-| 8    | Statuesque | Freckled   |
-| 9    | Stout      | Scarred    |
-| 10   | Towering   | Weathered  |
+| 1d10 | Physique   | Skin       | Hair      | Face        | Speech   |
+| ---- | ---------- | ---------- | --------- | ----------- | -------- |
+| 1    | Athletic   | Birthmark  | Shaved    | Bony        | Blunt    |
+| 2    | Brawny     | Drawn      | Braided   | Damaged     | Booming  |
+| 3    | Diminutive | Elongated  | Curly     | Chiselled   | Cryptic  |
+| 4    | Lanky      | Pockmarked | Matted    | Elongated   | Droning  |
+| 5    | Rugged     | Rosy       | Frizzy    | Pale        | Formal   |
+| 6    | Slim       | Rough      | Flowing   | Symmetrical | Gravelly |
+| 7    | Short      | Smooth     | Luxurious | Fierce      | Precise  |
+| 8    | Statuesque | Freckled   | Oily      | Sharp       | Squeaky  |
+| 9    | Stout      | Scarred    | Wavy      | Square      | Eloquent |
+| 10   | Towering   | Weathered  | Wispy     | Sunken      | Whispery |
 
 | 1d10 | Hair      | Face        |
 | ---- | --------- | ----------- |

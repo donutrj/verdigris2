@@ -29,6 +29,21 @@ You have been trained in the use and maintenance of blackpowder weaponry. This m
 Max: 1
 
 Bullshitting. Blathering involves talking rapidly and incessantly, or talking volubly and at-length, about inconsequential or nonsense matters, and is used to verbally confuse and confound a target. With a successful charisma test, the target is forced to waste time and effort dismissing your rambles.
+## Blood Magic
+Max: 1
+
+History is written in blood. The great works of wizards long gone were born in oceans of it. When casting a spell, the wizard may reduce their Hit Points by a die of their choosing. The greater the die, the greater the bonus on the test.
+
+Resolve magic before damage.
+
+| Blood Die | Cast Bonus |
+| --------- | ---------- |
+| 1d4       | 1          |
+| 1d6       | 2          |
+| 1d8       | 3          |
+| 1d10      | 4          |
+| 1d12      | 5          |
+| 1d20      | 6          |
 ## Bookish
 Max: Intelligence
 
@@ -46,7 +61,7 @@ If you fail to bribe a source, either because they cannot be bribed or otherwise
 ## Brothers in Arms
 Max: Party Size
 
-Together, you have been through it all. Choose an ally for each level in this talent. When a chosen ally is critically injured get a +2 bonus to all tests and saves for the next ten minutes.
+Together, you have been through it all. Choose an ally for each level in this talent. When a chosen ally is reduced to zero HP get a +2 bonus to all tests and saves for the next ten minutes.
 ## Catfall
 Max: Agility
 

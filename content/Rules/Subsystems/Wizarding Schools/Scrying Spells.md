@@ -17,7 +17,7 @@ Hidden magical forces reveal themselves, appearing as wispy trails of illuminate
 ## Psychometry
 Target: 1–3
 
-The GM answers SL yes or no questions about an object.
+The GM answers SL yes or no questions about an object. No more than five questions can be asked.
 ## Project Image
 Target: 3–4
 

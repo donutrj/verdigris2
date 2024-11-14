@@ -43,6 +43,45 @@ Damage lowers the victim's hit points. When enemies are reduced to zero hit poin
 When players are reduced to zero hit points, instead reduce your wounds by one, return your hit points to full, and roll on the Critical Injuries table.
 
 When a player is reduced to zero hit points and zero wounds, they are on Death's Door.
+
+| D66 | Injury              | Fatal | Time Limit             | Effects                                                   | Healing Time |
+| --- | ------------------- | ----- | ---------------------- | --------------------------------------------------------- | ------------ |
+| 11  | Winded              | No    |                        | None..                                                    |              |
+| 12  | Stunned             | No    |                        | Scattered.                                                |              |
+| 13  | Crippling Pain      | No    |                        | +1 Stress                                                 |              |
+| 14  | Sprained ankle      | No    |                        | -2 to AGI tests                                           | 2 days       |
+| 15  | Blood in eyes       | No    |                        | -1 to sight-based tests                                   | 1 minute     |
+| 16  | Concussion          | No    |                        | Stunned & Scattered                                       |              |
+| 21  | Severed ear         | No    |                        | -1 to all tests involving hearing                         |              |
+| 22  | Broken toes         | No    |                        | Moving takes both actions                                 |              |
+| 23  | Broken hand         | No    |                        | Can’t use hand                                            | 2 weeks      |
+| 24  | Knocked out teeth   | No    |                        | -1 Personality                                            |              |
+| 25  | Impaled thigh       | No    |                        | Moving takes both actions. Shaken.                        |              |
+| 26  | Slashed shoulder    | No    |                        | Can’t use arm. Weakened.                                  |              |
+| 31  | Broken nose         | No    | 1 hour to fix properly | -1 Personality                                            | 2 weeks      |
+| 32  | Crotch hit          | No    |                        | Weakened & Shaken.                                        | 1 minute     |
+| 33  | Broken ribs         | No    |                        | Weakened & Exhausted.                                     | 3 weeks      |
+| 34  | Gouged eye          | No    |                        | Sight based tests -2SL                                    | 2 weeks      |
+| 35  | Busted kneecap      | No    |                        | Can’t run, only crawl                                     | 1 month      |
+| 36  | Broken arm          | No    |                        | Can’t use arm                                             | 3 weeks      |
+| 41  | Broken leg          | No    |                        | Can’t run, only crawl                                     | 2 months     |
+| 42  | Crushed foot        | No    |                        | Can’t run, only crawl                                     | 2 months     |
+| 43  | Crushed elbow       | No    |                        | Can’t use arm                                             | 1 month      |
+| 44  | Punctured lung      | Yes   | One day                | STA & AGI tests -2                                        | 2 weeks      |
+| 45  | Bleeding gut        | Yes   | One hour               | Can’t heal by potions                                     | 2 weeks      |
+| 46  | Ruptured intestines | Yes   | Four hours             | Max Wounds halved                                         | 1 year       |
+| 51  | Busted kidney       | Yes   | Variable               | Lethal on second occurrence                               | Permanent    |
+| 52  | Arm artery cut      | Yes   | One round              | Can’t use arm                                             |              |
+| 53  | Leg artery cut      | Yes   | One round              | Moving takes all actions                                  |              |
+| 54  | Severed arm         | Yes   | Four hours             | Can’t use arm                                             | Permanent    |
+| 55  | Severed leg         | Yes   | One hour               | Can’t use leg                                             | Permanent    |
+| 56  | Cracked spine       | No    | One round              | Paralyzed from neck down without successful medicine test |              |
+| 61  | Ruptured jugular    | Yes   | One round              | Weakened, Shaken, Exhausted, Disheartened, Scattered      |              |
+| 62  | Ruptured aorta      | Yes   | One round              | Weakened, Shaken, Exhausted, Disheartened, Scattered      |              |
+| 63  | Disemboweled        | Yes   | Instant                | Dead                                                      |              |
+| 64  | Crushed skull       | Yes   | Instant                | Dead                                                      |              |
+| 65  | Pierced head        | Yes   | Instant                | Dead                                                      |              |
+| 66  | Impaled heart       | Yes   | Instant                | Dead                                                      |              |
 ## Death’s Door
 When a character reaches zero wounds and hit points, they are on Death’s Door. Once a minute or on their turn in combat, make a withstand save. On a fail, the character is dead. 
 ## Weapon Damage
@@ -55,8 +94,10 @@ A character can access items on their belt as a free action, whereas getting an 
 Read more about inventory [[Tests & Saves#Inventory|here]].
 # Recovery
 Recovering from injuries takes time. When a character spend a [[Travel#Resting|whole night resting]], they roll for 1d6 points. The result can be spent in the ways below. 
-- Recover all lost hit points for 1 point
-- Recover a lost attribute for 1 point
+- Recover all hit points for 1 point.
+- Recover all drain for 1 point.
+- Recover a lost attribute for 1 point.
+- Recover all exhaustion for 3 points.
 - Recover a lost wound for 3 points
 Points do not persist between rests. If a character takes a turn at watch or are otherwise partially occupied, they roll 1d3 instead.
 ## Critical Injuries

@@ -74,6 +74,7 @@ U(Savant)
 V(Batch Processing)
 W(Witchcraft)
 X(War Wizard)
+Y(Blood Magic)
 
 
 A --> B
@@ -98,6 +99,8 @@ S --> U
 T --> V
 T --> W
 M --> X
+M --> Y
+W --> Y
 ```
 # Criminal Talents
 ----

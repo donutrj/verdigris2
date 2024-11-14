@@ -1,9 +1,9 @@
 Traveling is broken down into quarter days. The group can spend those quarters however they'd like, traveling, foraging, sleeping, etc.
-## The Standard Day
+# The Standard Day
 While the group can do whatever they want throughout the day, there is a general assumption that half the day will be spent traveling, one quarter will be spent resting, and the last quarter will be a variety of activities.
 
 Maps and travel times assume this is how all days will be spent.
-## Activities
+# Activities
 The following is a non-exhaustive list of various activities characters can get up to throughout the day. Each will be gone into further below.
 
 | Activity    | Effect                                                                                            |
@@ -39,3 +39,4 @@ Marching is how the group will spend much of their travels. A comfortable pace o
 This is the typical nighttime action, where the party sleeps off the day's struggle. This allows the players to roll their 1d6 as per [[Combat#Recovery|recovery]]. It is typical that the party will want to keep watch, and should they, (there are usually two shifts in a night) they would roll 1d3 instead. 
 
 A character cannot be the recipient of first aid and be the lookout simultaneously. 
+## Repairing

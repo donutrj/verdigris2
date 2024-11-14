@@ -1,3 +1,12 @@
+## Arcane Recovery
+Target: ?
+A spell that, when used properly, draws nods of approval from nearby casters. A technical piece with a sharp conclusion.
+
+Cast in reaction to another spell going off, doing so is a reaction and will forfeit your next turn in combat. 
+
+As a reaction to another spell, if your SL is equal to or greater than the opponents, the spell is stifled. Regain SL hit points.
+
+If your SL was greater than the opponent's roll a miscast.
 ## Darkness
 Target: 1–3
 
@@ -42,15 +51,6 @@ It is oft easier to alter pieces than the whole. This spell simply redirects the
 Cast in reaction to another spell going off, doing so is a reaction and will forfeit your next turn in combat. 
 
 When successful, select a new target for a caster’s spell. The new target cannot be the caster themself.
-## Stifle
-Target: ?
-A spell that, when used properly, draws nods of approval from nearby casters. A technical piece with a sharp conclusion.
-
-Cast in reaction to another spell going off, doing so is a reaction and will forfeit your next turn in combat. 
-
-As a reaction to another spell,. If your SL is equal to or greater than the opponents, the spell is stifled. Regain SL hit points.
-
-If your SL was greater than the opponent's roll a miscast.
 ## Teleport
 Target: 3+
 

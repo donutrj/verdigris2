@@ -6,6 +6,7 @@ Once equipped, a potion takes four hours over the fire to produce, aka 1 shift (
 
 While the potions produced by large organizations can last nigh indefinitely in some cases, the typical home brewer can only keep a few in proper alchemical balance at any given time. 
 
+You can maintain a number of potions equal to your intelligence.
 ## Ingredient Guidelines
 
 Potions reflect the ingredients that go into them. Rare and powerful sources of energy will produce greater effects. Use the below guide to understand common examples and limitations. 

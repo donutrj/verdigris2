@@ -21,7 +21,7 @@ The target, either an individual or all those within a melee, are considered [[C
 ## Dimension Door
 Target: 2–3
 
-The caster uses a traditionally sappy chalk, to draw a portal moving through it to another point within line of sight. Attempting to draw the portal on grass or similarly uneven surfaces results in an automatic -1 SL.
+The caster uses a traditionally sappy chalk, to draw a portal moving through it to another point within line of sight. Attempting to draw the portal on grass or similarly uneven surfaces results in an automatic -1 SL on the Cast Test.
 
 The caster can teleport to another point within line of sight by going through the drawn portal. The portal collapses after SL beings have passed through. If drawn around the feet of the caster (or other creature) they fall through and are knocked [[Conditions & Effects#Prone|prone]] as they reach the other side.
 ## Fogbank

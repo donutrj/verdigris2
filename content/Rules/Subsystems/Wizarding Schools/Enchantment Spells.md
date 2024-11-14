@@ -50,7 +50,7 @@ Target: 1–3
 
 Cast in reaction to another spell going off, doing so is a reaction and will forfeit your next turn in combat. 
 
-On a success, immediately steal the magic from the opposing mage, absorbing their spell’s SL. You have turns equal to Stifle’s SL to cast another spell using all of the stolen SL. Unspent, take wounds equal to the SL.
+On a success, immediately steal the magic from the opposing mage, absorbing their spell’s SL. You have turns equal to Stifle’s SL to cast another spell using all of the stolen SL. Unspent, take damage equal to the SL.
 ## Water Breathing
 Target: 3–5
 
