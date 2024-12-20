@@ -202,7 +202,7 @@ You just like talking to other folk and it seems they like talking to you. You g
 ## Hardy
 Max: 1
 
-You gain a permanent addition of 4 wounds. Simple as that.
+You gain a permanent addition of 4 hit points. Simple as that.
 ## Hatred
 Max: 2
 
@@ -310,8 +310,6 @@ You are exceptionally skilled at your specified trade. You reduce the required S
 Max: Strength
 
 You have an imposing presence. When attempting to intimidate, gain a bonus equal to your level in this talent.
-
-#edit kinda redundant with [[Talents Master List#Frightening|Frightening]]
 ## Mimic
 Max: Charisma
 

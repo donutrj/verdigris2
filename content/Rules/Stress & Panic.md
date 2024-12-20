@@ -17,7 +17,7 @@ If you succeed, reduce stress to 0 and continue the action. If you fail, roll on
 | 12         | Drop held item or clutch it tight and increase stress by 2                                                                                                    |
 | 13         | Run for cover. Your next turn must be taken running for the nearest safe place. Remove all stress if you make it.                                             |
 | 14–15      | Berserk. You immediately roll to attack the nearest thing. Select randomly. Remove all stress if you connect. This attack does not benefit from stress dice.0 |
-| 16+        | Heart attack. Reduce Wounds to 0. Transfer all stress to allies<br><br>within line of sight.                                                                  |
+| 16+        | Heart attack. Reduce Wounds to 0. Transfer all stress to allies within line of sight.                                                                         |
 ## Reducing Stress
 In the heat of combat, a character can make a Intelligence Test to think it through and reduce their stress. Alternatively an ally may attempt a charisma test for the same effect. On a success, reduce stress to zero.
 

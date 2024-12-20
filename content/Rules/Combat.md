@@ -51,7 +51,7 @@ When a player is reduced to zero hit points and zero wounds, they are on Death's
 | 13  | Crippling Pain      | No    |                        | +1 Stress                                                 |              |
 | 14  | Sprained ankle      | No    |                        | -2 to AGI tests                                           | 2 days       |
 | 15  | Blood in eyes       | No    |                        | -1 to sight-based tests                                   | 1 minute     |
-| 16  | Concussion          | No    |                        | Stunned & Scattered                                       |              |
+| 16  | Concussion          | No    |                        | 1 Exhaustion                                              |              |
 | 21  | Severed ear         | No    |                        | -1 to all tests involving hearing                         |              |
 | 22  | Broken toes         | No    |                        | Moving takes both actions                                 |              |
 | 23  | Broken hand         | No    |                        | Can’t use hand                                            | 2 weeks      |
@@ -83,7 +83,7 @@ When a player is reduced to zero hit points and zero wounds, they are on Death's
 | 65  | Pierced head        | Yes   | Instant                | Dead                                                      |              |
 | 66  | Impaled heart       | Yes   | Instant                | Dead                                                      |              |
 ## Death’s Door
-When a character reaches zero wounds and hit points, they are on Death’s Door. Once a minute or on their turn in combat, make a withstand save. On a fail, the character is dead. 
+When a char acter reaches zero wounds and hit points, they are on Death’s Door. Once a minute or on their turn in combat, make a withstand save. On a fail, the character is dead. 
 ## Weapon Damage
 A [[Arms & Armor#Weapons|weapon’s table entry]] will have a damage and bonus listed. When a target is struck, reduce the target’s wounds equal to the damage value + 1 for each SL. 
 
